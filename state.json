@@ -1,0 +1,91 @@
+{
+   "East Malaysia":[
+      {
+         "name":"Sabah",
+         "short_name":"sbh"
+      },
+      {
+         "name":"Sarawak",
+         "short_name":"srw"
+      },
+      {
+         "name":"Labuan",
+         "short_name":"lbn"
+      }
+   ],
+   "Brunei":[
+      {
+         "name":"Brunei-Muara",
+         "short_name":"bm"
+      },
+      {
+         "name":"Belait",
+         "short_name":"blt"
+      },
+      {
+         "name":"Tutong",
+         "short_name":"ttg"
+      },
+      {
+         "name":"Temburong",
+         "short_name":"tbrg"
+      }
+   ],
+   "Singapore":[
+      
+   ],
+   "West Malaysia":[
+      {
+         "name":"Johor",
+         "short_name":"jhr"
+      },
+      {
+         "name":"Kedah",
+         "short_name":"kdh"
+      },
+      {
+         "name":"Kelantan",
+         "short_name":"ktn"
+      },
+      {
+         "name":"Melaka",
+         "short_name":"mlk"
+      },
+      {
+         "name":"Negeri Sembilan",
+         "short_name":"nsn"
+      },
+      {
+         "name":"Pahang",
+         "short_name":"phg"
+      },
+      {
+         "name":"Perak",
+         "short_name":"prk"
+      },
+      {
+         "name":"Perlis",
+         "short_name":"pls"
+      },
+      {
+         "name":"Pulau Pinang",
+         "short_name":"png"
+      },
+      {
+         "name":"Selangor",
+         "short_name":"sgr"
+      },
+      {
+         "name":"Terengganu",
+         "short_name":"trg"
+      },
+      {
+         "name":"Kuala Lumpur",
+         "short_name":"kul"
+      },
+      {
+         "name":"Putrajaya",
+         "short_name":"pjy"
+      }
+   ]
+}
