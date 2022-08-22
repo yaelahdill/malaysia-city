@@ -1,44 +1,128 @@
 {
    "Johor":[
       {
-         "name":"Johor Bahru",
-         "short_name":"jhrbhr"
+         "name":"Bakri",
+         "short_name":"bkri"
       },
       {
          "name":"Batu Pahat",
-         "short_name":"bp"
+         "short_name":"bpht"
+      },
+      {
+         "name":"Buloh Kasap",
+         "short_name":"blks"
+      },
+      {
+         "name":"Chaah",
+         "short_name":"chah"
+      },
+      {
+         "name":"Daerah Batu Pahat",
+         "short_name":"dbph"
+      },
+      {
+         "name":"Daerah Johor Baharu",
+         "short_name":"djbh"
+      },
+      {
+         "name":"Daerah Keluang",
+         "short_name":"dkel"
+      },
+      {
+         "name":"Daerah Kota Tinggi",
+         "short_name":"dktt"
+      },
+      {
+         "name":"Daerah Mersing",
+         "short_name":"dmrs"
+      },
+      {
+         "name":"Daerah Muar",
+         "short_name":"dmur"
+      },
+      {
+         "name":"Daerah Pontian",
+         "short_name":"dpnt"
+      },
+      {
+         "name":"Daerah Segamat",
+         "short_name":"dseg"
+      },
+      {
+         "name":"Johor Bahru",
+         "short_name":"jbru"
+      },
+      {
+         "name":"Kampung Pasir Gudang Baru",
+         "short_name":"kpgb"
+      },
+      {
+         "name":"Kampung Simpang Renggam",
+         "short_name":"ksrg"
+      },
+      {
+         "name":"Kepala Sawit",
+         "short_name":"ksaw"
       },
       {
          "name":"Kluang",
-         "short_name":"klg"
+         "short_name":"klua"
       },
       {
          "name":"Kota Tinggi",
-         "short_name":"kt"
+         "short_name":"kttg"
       },
       {
          "name":"Kulai",
-         "short_name":"kli"
+         "short_name":"kula"
+      },
+      {
+         "name":"Labis",
+         "short_name":"labi"
       },
       {
          "name":"Mersing",
-         "short_name":"msg"
+         "short_name":"mers"
       },
       {
          "name":"Muar",
-         "short_name":"muar"
+         "short_name":"mura"
       },
       {
-         "name":"Pontian",
-         "short_name":"ptn"
+         "name":"Parit Raja",
+         "short_name":"prja"
+      },
+      {
+         "name":"Pekan Nanas",
+         "short_name":"pnas"
+      },
+      {
+         "name":"Pontian Kechil",
+         "short_name":"pntk"
       },
       {
          "name":"Segamat",
-         "short_name":"sgt"
+         "short_name":"sega"
+      },
+      {
+         "name":"Skudai",
+         "short_name":"skud"
+      },
+      {
+         "name":"Taman Senai",
+         "short_name":"tmsn"
       },
       {
          "name":"Tangkak",
-         "short_name":"tgk"
+         "short_name":"tang"
+      },
+      {
+         "name":"Ulu Tiram",
+         "short_name":"ultr"
+      },
+      {
+         "name":"Yong Peng",
+         "short_name":"ypng"
       }
    ],
    "Sabah":[
