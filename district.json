@@ -531,6 +531,18 @@
          "short_name":"gm"
       },
       {
+         "name":"Kampung Kadok",
+         "short_name":"kdk"
+      },
+      {
+         "name":"Kampung Pangkal Kalong",
+         "short_name":"kpkl"
+      },
+      {
+         "name":"Peringat",
+         "short_name":"prg"
+      },
+      {
          "name":"Jeli",
          "short_name":"jeli"
       },
@@ -577,6 +589,54 @@
          "short_name":"Ag"
       },
       {
+         "name":"Batu Berendam",
+         "short_name":"Bb"
+      },
+      {
+         "name":"Bemban",
+         "short_name":"Bm"
+      },
+      {
+         "name":"Bukit Rambai",
+         "short_name":"Br"
+      },
+      {
+         "name":"Kampong Masjid Tanah",
+         "short_name":"Kmt"
+      },
+      {
+         "name":"Kampung Ayer Keroh",
+         "short_name":"Kak"
+      },
+      {
+         "name":"Kampung Ayer Molek",
+         "short_name":"Kam"
+      },
+      {
+         "name":"Kampung Bukit Baharu",
+         "short_name":"Kbb"
+      },
+      {
+         "name":"Klebang Besar",
+         "short_name":"Kb"
+      },
+      {
+         "name":"Kuala Sungai Baru",
+         "short_name":"Ksb"
+      },
+      {
+         "name":"Malacca",
+         "short_name":"Ml"
+      },
+      {
+         "name":"Pulau Sebang",
+         "short_name":"Ps"
+      },
+      {
+         "name":"Sungai Udang",
+         "short_name":"Su"
+      },
+      {
          "name":"Melaka Tengah",
          "short_name":"mt"
       },
@@ -613,6 +673,14 @@
       {
          "name":"Tampin",
          "short_name":"tmpn"
+      },
+      {
+         "name":"Bahau",
+         "short_name":"bau"
+      },
+      {
+         "name":"Kampung Baharu Nilai",
+         "short_name":"kbni"
       }
    ],
    "Pahang":[
@@ -641,8 +709,24 @@
          "short_name":"lps"
       },
       {
+         "name":"Kuala Lipis",
+         "short_name":"klps"
+      },
+      {
+         "name":"Kampung Bukit Tinggi",
+         "short_name":"kbtt"
+      },
+      {
+         "name":"Kampung Tekek",
+         "short_name":"ktek"
+      },
+      {
          "name":"Maran",
          "short_name":"mrn"
+      },
+      {
+         "name":"Mentekab",
+         "short_name":"mktb"
       },
       {
          "name":"Pekan",
@@ -659,12 +743,60 @@
       {
          "name":"Temerloh",
          "short_name":"tmlh"
+      },
+      {
+         "name":"Tanah Rata",
+         "short_name":"tr"
       }
    ],
    "Perak":[
       {
          "name":"Bagan Datuk",
          "short_name":"bd"
+      },
+      {
+         "name":"Bagan Serai",
+         "short_name":"bs"
+      },
+      {
+         "name":"Batu Gajah",
+         "short_name":"bgjh"
+      },
+      {
+         "name":"Bidur",
+         "short_name":"bdur"
+      },
+      {
+         "name":"Ipoh",
+         "short_name":"ip"
+      },
+      {
+         "name":"Kampong Dungun",
+         "short_name":"kdg"
+      },
+      {
+         "name":"Pantai Remis",
+         "short_name":"prs"
+      },
+      {
+         "name":"Parit Buntar",
+         "short_name":"pb"
+      },
+      {
+         "name":"Simpang Empat",
+         "short_name":"se"
+      },
+      {
+         "name":"Taiping",
+         "short_name":"tp"
+      },
+      {
+         "name":"Tapah Road",
+         "short_name":"trd"
+      },
+      {
+         "name":"Teluk Intan",
+         "short_name":"ti"
       },
       {
          "name":"Batang Padang",
@@ -721,12 +853,20 @@
          "short_name":"kb"
       },
       {
+         "name":"Kuala Perlis",
+         "short_name":"kpls"
+      },
+      {
          "name":"Kangar",
          "short_name":"kgr"
       },
       {
          "name":"Padang Besar",
          "short_name":"pb"
+      },
+      {
+         "name":"Pantai Cenang",
+         "short_name":"pc"
       },
       {
          "name":"Simpang Ampat",
@@ -743,17 +883,73 @@
          "short_name":"spu"
       },
       {
-         "name":"Barat Daya Pulau Pinang",
-         "short_name":"bdpp"
-      },
-      {
          "name":"Seberang Perai Selatan",
          "short_name":"sps"
+      },
+      {
+         "name":"Batu Feringgi",
+         "short_name":"bf"
+      },
+      {
+         "name":"Bukit Mertajam",
+         "short_name":"bm"
+      },
+      {
+         "name":"Butterworth",
+         "short_name":"but"
+      },
+      {
+         "name":"George Town",
+         "short_name":"gt"
+      },
+      {
+         "name":"Juru",
+         "short_name":"jru"
+      },
+      {
+         "name":"Kampung Batu Feringgi",
+         "short_name":"kbf"
+      },
+      {
+         "name":"Kampung Sungai Ara",
+         "short_name":"ksa"
+      },
+      {
+         "name":"Kepala Batas",
+         "short_name":"kb"
+      },
+      {
+         "name":"Nibong Tebal",
+         "short_name":"nt"
+      },
+      {
+         "name":"Perai",
+         "short_name":"perai"
+      },
+      {
+         "name":"Permata Kuching",
+         "short_name":"pk"
+      },
+      {
+         "name":"Tanjung Tokong",
+         "short_name":"tt"
+      },
+      {
+         "name":"Tasek Glugor",
+         "short_name":"tg"
+      },
+      {
+         "name":"Telaga Batu",
+         "short_name":"tb"
+      },
+      {
+         "name":"Barat Daya Pulau Pinang",
+         "short_name":"bdpp"
       }
    ],
    "Selangor":[
       {
-         "name":"Petaling",
+         "name":"Petaling Jaya",
          "short_name":"ptlg"
       },
       {
@@ -789,12 +985,92 @@
          "short_name":"pi"
       },
       {
-         "name":"Petaling",
-         "short_name":"ptg"
-      },
-      {
          "name":"Sabak Bernam",
          "short_name":"sb"
+      },
+      {
+         "name":"Ampang",
+         "short_name":"ampg"
+      },
+      {
+         "name":"Bagan Pulau Ketam",
+         "short_name":"bpk"
+      },
+      {
+         "name":"Banting",
+         "short_name":"bt"
+      },
+      {
+         "name":"Batang Berjuntai",
+         "short_name":"bbj"
+      },
+      {
+         "name":"Batu Arang",
+         "short_name":"bar"
+      },
+      {
+         "name":"Jenjarum",
+         "short_name":"jrm"
+      },
+      {
+         "name":"Kampong Baharu Balakong",
+         "short_name":"kbb"
+      },
+      {
+         "name":"Kampung Baru Subang",
+         "short_name":"kbs"
+      },
+      {
+         "name":"Kampung Tanjung Karang",
+         "short_name":"ktk"
+      },
+      {
+         "name":"Kuang",
+         "short_name":"kuang"
+      },
+      {
+         "name":"Ladang Seri Kundang",
+         "short_name":"lsk"
+      },
+      {
+         "name":"Pelabuhan Klang",
+         "short_name":"pkl"
+      },
+      {
+         "name":"Putra Heights",
+         "short_name":"ph"
+      },
+      {
+         "name":"Rawang",
+         "short_name":"raw"
+      },
+      {
+         "name":"Semenyih",
+         "short_name":"sem"
+      },
+      {
+         "name":"Serendah",
+         "short_name":"se"
+      },
+      {
+         "name":"Shah Alam",
+         "short_name":"sh"
+      },
+      {
+         "name":"Subang Jaya",
+         "short_name":"sj"
+      },
+      {
+         "name":"Sungai Besar",
+         "short_name":"sb"
+      },
+      {
+         "name":"Sungai Pelek New Village",
+         "short_name":"spn"
+      },
+      {
+         "name":"Tanjung Sepat",
+         "short_name":"ts"
       }
    ],
    "Terengganu":[
@@ -829,13 +1105,29 @@
       {
          "name":"Setiu",
          "short_name":"stu"
+      },
+      {
+         "name":"Cukai",
+         "short_name":"cukai"
+      },
+      {
+         "name":"Jertih",
+         "short_name":"jrt"
+      },
+      {
+         "name":"Kampung Kuala Besut",
+         "short_name":"kkb"
+      },
+      {
+         "name":"Kertih",
+         "short_name":"krt"
+      },
+      {
+         "name":"Paka",
+         "short_name":"pka"
       }
    ],
    "Kuala Lumpur":[
-      {
-         "name":"Ampang",
-         "short_name":"apg"
-      },
       {
          "name":"Batu Caves",
          "short_name":"bc"
@@ -849,20 +1141,12 @@
          "short_name":"dsra"
       },
       {
-         "name":"Gombak",
-         "short_name":"gbk"
-      },
-      {
-         "name":"Hulu Kelang",
+         "name":"Hulu Klang",
          "short_name":"Hk"
       },
       {
          "name":"Kepong",
          "short_name":"kpg"
-      },
-      {
-         "name":"Petaling Jaya",
-         "short_name":"pj"
       },
       {
          "name":"Petaling",
@@ -879,24 +1163,107 @@
       {
          "name":"Sungai Besi",
          "short_name":"sg"
+      },
+      {
+         "name":"Kuala Lumpur",
+         "short_name":"kl"
       }
    ],
    "Putrajaya":[
       {
-         "name":"Putra Jaya",
+         "name":"Putrajaya",
          "short_name":"pj"
       }
    ],
    "Brunei-Muara":[
-      
+      {
+         "name":"Bandar Seri Begawan",
+         "short_name":"bsb"
+      },
+      {
+         "name":"Berakas A",
+         "short_name":"bka"
+      },
+      {
+         "name":"Kapok",
+         "short_name":"kpk"
+      },
+      {
+         "name":"Mentiri",
+         "short_name":"mt"
+      },
+      {
+         "name":"Serasa",
+         "short_name":"sr"
+      }
    ],
+      
    "Belait":[
-      
+      {
+         "name":"Kuala Belait",
+         "short_name":"kb"
+      },
+      {
+         "name":"Seria",
+         "short_name":"sr"
+      }
    ],
+      
    "Tutong":[
+      {
+         "name":"Tutong",
+         "short_name":"tt"
+      }
+   ],
+
+   "Temburong":[
+      {
+         "name":"Bangar",
+         "short_name":"bgr"
+      }
       
    ],
-   "Temburong":[
-      
-   ]
+
+   "Singapore":[
+      {
+         "name":"Singapore",
+         "short_name":"sgp"
+      }
+   ],
+
+   "Central Singapore Community Development Council":[
+      {
+         "name":"Singapore",
+         "short_name":"sgp"
+      }
+   ],
+
+   
+   "North East Community Development Council":[
+      {
+         "name":"Singapore",
+         "short_name":"sgp"
+      }
+   ],
+
+   "North West Community Development Council":[
+      {
+         "name":"Woodlands",
+         "short_name":"wd"
+      }
+   ],
+
+   "South East Community Development Council":[
+      {
+         "name":"Singapore",
+         "short_name":"sgp"
+      }
+   ],
+
+   "South West Community Development Council":[
+      {
+         "name":"Singapore",
+         "short_name":"sgp"
+      }
+   ],
 }
