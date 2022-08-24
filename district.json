@@ -1196,8 +1196,7 @@
          "name":"Serasa",
          "short_name":"sr"
       }
-   ],
-      
+   ],     
    "Belait":[
       {
          "name":"Kuala Belait",
@@ -1208,58 +1207,48 @@
          "short_name":"sr"
       }
    ],
-      
    "Tutong":[
       {
          "name":"Tutong",
          "short_name":"tt"
       }
    ],
-
    "Temburong":[
       {
          "name":"Bangar",
          "short_name":"bgr"
       }
-      
    ],
-
    "Singapore":[
       {
          "name":"Singapore",
          "short_name":"sgp"
       }
    ],
-
    "Central Singapore Community Development Council":[
       {
          "name":"Singapore",
          "short_name":"sgp"
       }
    ],
-
-   
    "North East Community Development Council":[
       {
          "name":"Singapore",
          "short_name":"sgp"
       }
    ],
-
    "North West Community Development Council":[
       {
          "name":"Woodlands",
          "short_name":"wd"
       }
    ],
-
    "South East Community Development Council":[
       {
          "name":"Singapore",
          "short_name":"sgp"
       }
    ],
-
    "South West Community Development Council":[
       {
          "name":"Singapore",
