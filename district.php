@@ -1,5 +1,6 @@
 <?php
-
+header('Access-Control-Allow-Origin: *');
+header('Access-Control-Allow-Headers: *');
 $file = file_get_contents('district.json');
 
 if(isset($_GET['search'])){
