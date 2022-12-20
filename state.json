@@ -38,33 +38,54 @@
       },
       {
          "name":"Central Singapore Community Development Council ",
-         "short_name":"cscdc"
+         "short_name":"cscdc",
+         "state_code": "01",
+         "latitude": "1.28951400",
+         "longitude": "103.81438790"
       },
       {
          "name":"North East Community Development Council",
-         "short_name":"necdc"
+         "short_name":"necdc",
+         "state_code": "02",
+         "latitude": "45.01181130",
+         "longitude": "-93.24681070"
       },
       {
          "name":"North West Community Development Council",
-         "short_name":"nwcdc"
+         "short_name":"nwcdc",
+         "state_code": "03",
+         "latitude": "39.10709300",
+         "longitude": "-94.45733600"
       },
       {
          "name":"South East Community Development Council",
-         "short_name":"sescdc"
+         "short_name":"sescdc",
+         "state_code": "04",
+         "latitude": "39.28630700",
+         "longitude": "-76.56912370"
       },
       {
          "name":"South West Community Development Council",
-         "short_name":"swcdc"
+         "short_name":"swcdc",
+         "state_code": "05",
+         "latitude": "39.92569100",
+         "longitude": "-75.23105800"
       }
    ],
    "West Malaysia":[
       {
          "name":"Johor",
-         "short_name":"jhr"
+         "short_name":"jhr",
+         "state_code": "01",
+         "latitude": "1.48536820",
+         "longitude": "103.76181540"
       },
       {
          "name":"Kedah",
-         "short_name":"kdh"
+         "short_name":"kdh",
+         "state_code": "02",
+         "latitude": "6.11839640",
+         "longitude": "100.36845950"
       },
       {
          "name":"Kelantan",
@@ -109,6 +130,107 @@
       {
          "name":"Putrajaya",
          "short_name":"pjy"
+      }
+   ],
+   "United States":[
+      {
+         "name": "Alabama",
+         "state_code": "AL",
+         "latitude": "32.31823140",
+         "longitude": "-86.90229800",
+         "short_name":"al"
+      },
+      {
+         "name": "Alaska",
+         "state_code": "AK",
+         "latitude": "64.20084130",
+         "longitude": "-149.49367330",
+         "short_name": "ak"
+      },
+      {
+         "name": "Arizona",
+         "state_code": "AZ",
+         "latitude": "34.04892810",
+         "longitude": "-111.09373110",
+         "short_name": "az"
+      },
+      {
+         "name": "Arkansas",
+         "state_code": "AR",
+         "latitude": "35.20105000",
+         "longitude": "-91.83183340",
+         "short_name": "ar"
+      },
+      {
+         "name": "California",
+         "state_code": "CA",
+         "latitude": "36.77826100",
+         "longitude": "-119.41793240",
+         "short_name": "ca"
+      },
+      {
+         "name": "Illinois",
+         "state_code": "IL",
+         "latitude": "40.63312490",
+         "longitude": "-89.39852830",
+         "short_name": "il"
+      },
+      {
+         "name": "Kentucky",
+         "state_code": "KY",
+         "latitude": "37.83933320",
+         "longitude": "-84.27001790",
+         "short_name": "ky"
+      },
+      {
+         "name": "Kansas",
+         "state_code": "KS",
+         "latitude": "39.01190200",
+         "longitude": "-98.48424650",
+         "short_name": "ks"
+      },
+      {
+         "name": "Iowa",
+         "state_code": "IA",
+         "latitude": "41.87800250",
+         "longitude": "-93.09770200",
+         "short_name": "ia"
+      },
+      {
+         "name": "Indiana",
+         "state_code": "IN",
+         "latitude": "40.26719410",
+         "longitude": "-86.13490190",
+         "short_name": "in"
+      },
+      {
+         "name": "Idaho",
+         "state_code": "ID",
+         "latitude": "44.06820190",
+         "longitude": "-114.74204080",
+         "short_name": "id"
+      },
+      {
+         "name": "Hawaii",
+         "state_code": "HI",
+         "latitude": "19.89676620",
+         "longitude": "-155.58278180",
+         "short_name": "hi"
+      },
+      {
+         
+         "name": "Georgia",
+         "state_code": "GA",
+         "latitude": "32.16562210",
+         "longitude": "-82.90007510",
+         "short_name": "ga"
+      },
+      {
+         "name": "Florida",
+         "state_code": "FL",
+         "latitude": "27.66482740",
+         "longitude": "-81.51575350",
+         "short_name": "fl"
       }
    ]
 }

@@ -1,23 +1,317 @@
 [
    {
       "name":"East Malaysia",
-      "short_name":"my"
+      "short_name":"my",
+      "iso3": "MYS",
+      "iso2": "MY",
+      "phone_code": "60",
+      "currency": "MYR",
+      "currency_name": "Malaysian ringgit",
+      "currency_symbol": "RM",
+      "latitude": "2.50000000",
+      "longitude": "112.50000000",
+      "emoji": "🇲🇾",
+      "emojiU": "U+1F1F2 U+1F1FE",
+      "timezones": [
+         {
+             "zoneName": "Asia\/Kuching",
+             "gmtOffset": 28800,
+             "gmtOffsetName": "UTC+08:00",
+             "abbreviation": "MYT",
+             "tzName": "Malaysia Time"
+         }
+     ]
    },
    {
       "name":"Brunei",
-      "short_name":"bn"
+      "short_name":"bn",
+      "iso3": "BRN",
+      "iso2": "BN",
+      "phone_code": "673",
+      "capital": "Bandar Seri Begawan",
+      "currency": "BND",
+      "currency_name": "Brunei dollar",
+      "currency_symbol": "B$",
+      "latitude": "4.50000000",
+      "longitude": "114.66666666",
+      "emoji": "🇧🇳",
+      "emojiU": "U+1F1E7 U+1F1F3",
+      "timezones": [
+         {
+             "zoneName": "Asia\/Brunei",
+             "gmtOffset": 28800,
+             "gmtOffsetName": "UTC+08:00",
+             "abbreviation": "BNT",
+             "tzName": "Brunei Darussalam Time"
+         }
+     ]
    },
    {
       "name":"Singapore",
-      "short_name":"sg"
+      "short_name":"sg",
+      "iso3": "SGP",
+      "iso2": "SG",
+      "phone_code": "65",
+      "capital": "Singapur",
+      "currency": "SGD",
+      "currency_name": "Singapore dollar",
+      "currency_symbol": "$",
+      "latitude": "1.36666666",
+      "longitude": "103.80000000",
+      "emoji": "🇸🇬",
+      "emojiU": "U+1F1F8 U+1F1EC",
+      "timezones": [
+          {
+              "zoneName": "Asia\/Singapore",
+              "gmtOffset": 28800,
+              "gmtOffsetName": "UTC+08:00",
+              "abbreviation": "SGT",
+              "tzName": "Singapore Time"
+          }
+      ]
    },
    {
       "name":"West Malaysia",
-      "short_name":"my"
+      "short_name":"my",
+      "iso3": "MYS",
+      "iso2": "MY",
+      "phone_code": "60",
+      "currency": "MYR",
+      "currency_name": "Malaysian ringgit",
+      "currency_symbol": "RM",
+      "latitude": "2.50000000",
+      "longitude": "112.50000000",
+      "emoji": "🇲🇾",
+      "emojiU": "U+1F1F2 U+1F1FE",
+      "timezones": [
+          {
+              "zoneName": "Asia\/Kuala_Lumpur",
+              "gmtOffset": 28800,
+              "gmtOffsetName": "UTC+08:00",
+              "abbreviation": "MYT",
+              "tzName": "Malaysia Time"
+          }
+      ]
    },
    {
       "name":"United States",
-      "short_name":"us"
+      "short_name":"us",
+      "iso3": "USA",
+      "iso2": "US",
+      "phone_code": "1",
+      "capital": "Washington",
+      "currency": "USD",
+      "currency_name": "United States dollar",
+      "currency_symbol": "$",
+      "latitude": "38.00000000",
+      "longitude": "-97.00000000",
+      "emoji": "🇺🇸",
+      "emojiU": "U+1F1FA U+1F1F8",
+      "timezones": [
+          {
+              "zoneName": "America\/Adak",
+              "gmtOffset": -36000,
+              "gmtOffsetName": "UTC-10:00",
+              "abbreviation": "HST",
+              "tzName": "Hawaii–Aleutian Standard Time"
+          },
+          {
+              "zoneName": "America\/Anchorage",
+              "gmtOffset": -32400,
+              "gmtOffsetName": "UTC-09:00",
+              "abbreviation": "AKST",
+              "tzName": "Alaska Standard Time"
+          },
+          {
+              "zoneName": "America\/Boise",
+              "gmtOffset": -25200,
+              "gmtOffsetName": "UTC-07:00",
+              "abbreviation": "MST",
+              "tzName": "Mountain Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Chicago",
+              "gmtOffset": -21600,
+              "gmtOffsetName": "UTC-06:00",
+              "abbreviation": "CST",
+              "tzName": "Central Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Denver",
+              "gmtOffset": -25200,
+              "gmtOffsetName": "UTC-07:00",
+              "abbreviation": "MST",
+              "tzName": "Mountain Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Detroit",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Indiana\/Indianapolis",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Indiana\/Knox",
+              "gmtOffset": -21600,
+              "gmtOffsetName": "UTC-06:00",
+              "abbreviation": "CST",
+              "tzName": "Central Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Indiana\/Marengo",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Indiana\/Petersburg",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Indiana\/Tell_City",
+              "gmtOffset": -21600,
+              "gmtOffsetName": "UTC-06:00",
+              "abbreviation": "CST",
+              "tzName": "Central Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Indiana\/Vevay",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Indiana\/Vincennes",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Indiana\/Winamac",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Juneau",
+              "gmtOffset": -32400,
+              "gmtOffsetName": "UTC-09:00",
+              "abbreviation": "AKST",
+              "tzName": "Alaska Standard Time"
+          },
+          {
+              "zoneName": "America\/Kentucky\/Louisville",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Kentucky\/Monticello",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Los_Angeles",
+              "gmtOffset": -28800,
+              "gmtOffsetName": "UTC-08:00",
+              "abbreviation": "PST",
+              "tzName": "Pacific Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Menominee",
+              "gmtOffset": -21600,
+              "gmtOffsetName": "UTC-06:00",
+              "abbreviation": "CST",
+              "tzName": "Central Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Metlakatla",
+              "gmtOffset": -32400,
+              "gmtOffsetName": "UTC-09:00",
+              "abbreviation": "AKST",
+              "tzName": "Alaska Standard Time"
+          },
+          {
+              "zoneName": "America\/New_York",
+              "gmtOffset": -18000,
+              "gmtOffsetName": "UTC-05:00",
+              "abbreviation": "EST",
+              "tzName": "Eastern Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Nome",
+              "gmtOffset": -32400,
+              "gmtOffsetName": "UTC-09:00",
+              "abbreviation": "AKST",
+              "tzName": "Alaska Standard Time"
+          },
+          {
+              "zoneName": "America\/North_Dakota\/Beulah",
+              "gmtOffset": -21600,
+              "gmtOffsetName": "UTC-06:00",
+              "abbreviation": "CST",
+              "tzName": "Central Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/North_Dakota\/Center",
+              "gmtOffset": -21600,
+              "gmtOffsetName": "UTC-06:00",
+              "abbreviation": "CST",
+              "tzName": "Central Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/North_Dakota\/New_Salem",
+              "gmtOffset": -21600,
+              "gmtOffsetName": "UTC-06:00",
+              "abbreviation": "CST",
+              "tzName": "Central Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Phoenix",
+              "gmtOffset": -25200,
+              "gmtOffsetName": "UTC-07:00",
+              "abbreviation": "MST",
+              "tzName": "Mountain Standard Time (North America"
+          },
+          {
+              "zoneName": "America\/Sitka",
+              "gmtOffset": -32400,
+              "gmtOffsetName": "UTC-09:00",
+              "abbreviation": "AKST",
+              "tzName": "Alaska Standard Time"
+          },
+          {
+              "zoneName": "America\/Yakutat",
+              "gmtOffset": -32400,
+              "gmtOffsetName": "UTC-09:00",
+              "abbreviation": "AKST",
+              "tzName": "Alaska Standard Time"
+          },
+          {
+              "zoneName": "Pacific\/Honolulu",
+              "gmtOffset": -36000,
+              "gmtOffsetName": "UTC-10:00",
+              "abbreviation": "HST",
+              "tzName": "Hawaii–Aleutian Standard Time"
+          }
+      ]
    },
    {
       "name":"Suriname",
@@ -296,11 +590,7 @@
       "short_name":"mw"
    },
    {
-      "name":"Malaysia",
-      "short_name":"my"
-   },
-   {
-      "name":"Mdagascar",
+      "name":"Madagascar",
       "short_name":"mg"
    },
    {
