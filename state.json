@@ -132,6 +132,51 @@
          "short_name":"pjy"
       }
    ],
+   "Afghanistan": [
+      {
+         "name": "Badakhshan",
+         "state_code": "BDS",
+         "latitude": "36.73477250",
+         "longitude": "70.81199530",
+         "short_name": "bds"
+      },
+      {
+         "name": "Badghis",
+         "state_code": "BDG",
+         "latitude": "35.16713390",
+         "longitude": "63.76953840",
+         "short_name": "bdg"
+      },
+      {
+         "name": "Baghlan",
+         "state_code": "BGL",
+         "latitude": "36.17890260",
+         "longitude": "68.74530640",
+         "short_name": "bgl"
+      },
+      {
+         "name": "Balkh",
+         "state_code": "BAL",
+         "latitude": "36.75506030",
+         "longitude": "66.89753720",
+         "short_name": "bal"
+      },
+      {
+         "name": "Bamyan",
+         "state_code": "BAM",
+         "latitude": "34.81000670",
+         "longitude": "67.82121040",
+         "short_name": "bam"
+      },
+      {
+         "name": "Daykundi",
+         "state_code": "DAY",
+         "latitude": "33.66949500",
+         "longitude": "66.04635340",
+         "short_name": "day"
+      },
+      {}
+   ],
    "United States":[
       {
          "name": "Alabama",
@@ -231,6 +276,34 @@
          "latitude": "27.66482740",
          "longitude": "-81.51575350",
          "short_name": "fl"
+      },
+      {
+    "name": "District of Columbia",
+    "state_code": "DC",
+    "latitude": "38.90719230",
+    "longitude": "-77.03687070",
+    "short_name": "dc"
+      },
+      {
+         "name": "Delaware",
+    "state_code": "DE",
+    "latitude": "38.91083250",
+    "longitude": "-75.52766990",
+    "short_name": "de"
+      },
+      {
+         "name": "Connecticut",
+    "state_code": "CT",
+    "latitude": "41.60322070",
+    "longitude": "-73.08774900",
+    "short_name": "ct"
+      },
+      {
+         "name": "Colorado",
+ "state_code": "CO",
+ "latitude": "39.55005070",
+ "longitude": "-105.78206740",
+ "short_name": "co"
       }
    ]
 }
