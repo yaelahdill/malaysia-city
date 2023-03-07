@@ -175,7 +175,34 @@
          "longitude": "66.04635340",
          "short_name": "day"
       },
-      {}
+      {
+         "name": "Farah",
+         "state_code": "FRA",
+         "latitude": "32.49532800",
+         "longitude": "62.26266270",
+         "short_name": "fra"
+      },
+      {
+         "name": "Faryab",
+         "state_code": "FYB",
+         "latitude": "36.07956130",
+         "longitude": "64.90595500",
+         "short_name": "fyb"
+      },
+      {
+         "name": "Ghazni",
+         "state_code": "GHA",
+         "latitude": "33.54505870",
+         "longitude": "68.41739720",
+         "short_name": "gha"
+      },
+      {
+         "name": "Ghōr",
+         "state_code": "GHO",
+         "latitude": "34.09957760",
+         "longitude": "64.90595500",
+         "short_name": "gho"
+      }
    ],
    "United States":[
       {
