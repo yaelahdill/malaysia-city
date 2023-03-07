@@ -1139,6 +1139,10 @@
    },
    {
       "name":"Austria",
+      "short_name":"at"
+   },
+   {
+      "name":"Australia",
       "short_name":"au"
    },
    {
