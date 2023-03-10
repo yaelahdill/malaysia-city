@@ -2,21 +2,29 @@
    "East Malaysia":[
       {
          "name":"Sabah",
-         "short_name":"sbh"
+         "short_name":"sbh",
+         "latitude": "5.97883980",
+         "longitude": "116.07531990"
       },
       {
          "name":"Sarawak",
-         "short_name":"srw"
+         "short_name":"srw",
+         "latitude": "1.55327830",
+         "longitude": "110.35921270"
       },
       {
          "name":"Labuan",
-         "short_name":"lbn"
+         "short_name":"lbn",
+         "latitude": "5.28314560",
+         "longitude": "115.23082500"
       }
    ],
    "Brunei":[
       {
          "name":"Brunei-Muara",
-         "short_name":"bm"
+         "short_name":"bm",
+         "latitude": "4.93112060",
+        "longitude": "114.95168690"
       },
       {
          "name":"Belait",
@@ -24,17 +32,23 @@
       },
       {
          "name":"Tutong",
-         "short_name":"ttg"
+         "short_name":"ttg",
+         "latitude": "4.80278000",
+         "longitude": "114.64917000"
       },
       {
          "name":"Temburong",
-         "short_name":"tbrg"
+         "short_name":"tbrg",
+         "latitude": "4.62041280",
+        "longitude": "115.14148400"
       }
    ],
    "Singapore":[
       {
          "name":"Singapore",
-         "short_name":"sg"
+         "short_name":"sg",
+         "latitude": "1.28967000",
+         "longitude": "103.85007000"
       },
       {
          "name":"Central Singapore Community Development Council ",
@@ -89,47 +103,69 @@
       },
       {
          "name":"Kelantan",
-         "short_name":"ktn"
+         "short_name":"ktn",
+         "latitude": "6.12539690",
+         "longitude": "102.23807100"
       },
       {
          "name":"Melaka",
-         "short_name":"mlk"
+         "short_name":"mlk",
+         "latitude": "2.18959400",
+         "longitude": "102.25008680"
       },
       {
          "name":"Negeri Sembilan",
-         "short_name":"nsn"
+         "short_name":"nsn",
+         "latitude": "2.72580580",
+         "longitude": "101.94237820"
       },
       {
          "name":"Pahang",
-         "short_name":"phg"
+         "short_name":"phg",
+         "latitude": "3.81263180",
+         "longitude": "103.32562040"
       },
       {
          "name":"Perak",
-         "short_name":"prk"
+         "short_name":"prk",
+         "latitude": "4.59211260",
+         "longitude": "101.09010900"
       },
       {
          "name":"Perlis",
-         "short_name":"pls"
+         "short_name":"pls",
+         "latitude": "29.92270940",
+         "longitude": "-90.12285590"
       },
       {
          "name":"Pulau Pinang",
-         "short_name":"png"
+         "short_name":"png",
+         "latitude": "5.41639350",
+         "longitude": "100.33267860"
       },
       {
          "name":"Selangor",
-         "short_name":"sgr"
+         "short_name":"sgr",
+         "latitude": "3.07383790",
+         "longitude": "101.51834690"
       },
       {
          "name":"Terengganu",
-         "short_name":"trg"
+         "short_name":"trg",
+         "latitude": "5.31169160",
+         "longitude": "103.13241540"
       },
       {
          "name":"Kuala Lumpur",
-         "short_name":"kul"
+         "short_name":"kul",
+         "latitude": "3.13900300",
+         "longitude": "101.68685500"
       },
       {
          "name":"Putrajaya",
-         "short_name":"pjy"
+         "short_name":"pjy",
+         "latitude": "2.92636100",
+         "longitude": "101.69644500"
       }
    ],
    "Afghanistan": [
