@@ -2548,6 +2548,107 @@
             "longitude": "73.34928000"
         }
    ],
+   "Badghis": [
+    {
+       "id": 72,
+       "name": "Ghormach",
+       "latitude": "35.73062000",
+       "longitude": "63.78264000"
+   },
+   {
+       "id": 108,
+       "name": "Qala i Naw",
+       "latitude": "34.98735000",
+       "longitude": "63.12891000"
+   }
+ ],
+ "Baghlan":[
+    {
+       "id": 54,
+       "name": "Baghlān",
+       "latitude": "36.13068000",
+       "longitude": "68.70829000"
+   },
+   {
+       "id": 140,
+       "name": "Ḩukūmatī Dahanah-ye Ghōrī",
+       "latitude": "35.90617000",
+       "longitude": "68.48869000"
+   },
+   {
+       "id": 101,
+       "name": "Nahrīn",
+       "latitude": "36.06490000",
+       "longitude": "69.13343000"
+   },
+   {
+       "id": 105,
+       "name": "Pul-e Khumrī",
+       "latitude": "35.94458000",
+       "longitude": "68.71512000"
+   }
+ ],
+ "Balkh": [
+    {
+       "id": 55,
+       "name": "Balkh",
+       "latitude": "36.75635000",
+       "longitude": "66.89720000"
+   },
+   {
+       "id": 65,
+       "name": "Dowlatābād",
+       "latitude": "36.98821000",
+       "longitude": "66.82069000"
+   },
+   {
+       "id": 85,
+       "name": "Khulm",
+       "latitude": "36.69736000",
+       "longitude": "67.69826000"
+   },
+   {
+       "id": 91,
+       "name": "Lab-Sar",
+       "latitude": "36.02634000",
+       "longitude": "66.83799000"
+   },
+   {
+       "id": 97,
+       "name": "Mazār-e Sharīf",
+       "latitude": "36.70904000",
+       "longitude": "67.11087000"
+   },
+   {
+       "id": 112,
+       "name": "Qarchī Gak",
+       "latitude": "37.03999000",
+       "longitude": "66.78891000"
+   }
+ ],
+ "Bamyan":[
+    {
+       "id": 57,
+       "name": "Bāmyān",
+       "latitude": "34.82156000",
+       "longitude": "67.82734000"
+   },
+   {
+       "id": 104,
+       "name": "Panjāb",
+       "latitude": "34.38795000",
+       "longitude": "67.02327000"
+   }
+ ],
+ "Daykundi": [
+    {
+       "id": 102,
+       "name": "Nīlī",
+       "latitude": "33.76329000",
+       "longitude": "66.07617000"
+   }
+ ],
+
    "Farah": [
       {
          "id": 66,
@@ -2592,107 +2693,181 @@
         "longitude": "64.30520000"
     }
    ],
-   "Badghis": [
-      {
-         "id": 72,
-         "name": "Ghormach",
-         "latitude": "35.73062000",
-         "longitude": "63.78264000"
-     },
-     {
-         "id": 108,
-         "name": "Qala i Naw",
-         "latitude": "34.98735000",
-         "longitude": "63.12891000"
-     }
+   "Helmand": [
+    {
+        "id": 141,
+        "name": "‘Alāqahdārī Dīshū",
+        "latitude": "30.43206000",
+        "longitude": "63.29802000"
+
+    },
+    {
+        "id": 70,
+        "name": "Gereshk",
+        "latitude": "31.82089000",
+        "longitude": "64.57005000"
+
+    },
+    {
+        "id": 93,
+        "name": "Lashkar Gāh",
+        "latitude": "31.59382000",
+        "longitude": "64.37161000"
+    },
+    {
+        "id": 95,
+        "name": "Markaz-e Ḩukūmat-e Darwēshān",
+        "latitude": "31.13231000",
+        "longitude": "64.19340000"
+    },
+    {
+        "id": 118,
+        "name": "Sangīn",
+        "latitude": "32.07275000",
+        "longitude": "64.83590000"
+    }
+
    ],
-   "Baghlan":[
-      {
-         "id": 54,
-         "name": "Baghlān",
-         "latitude": "36.13068000",
-         "longitude": "68.70829000"
-     },
-     {
-         "id": 140,
-         "name": "Ḩukūmatī Dahanah-ye Ghōrī",
-         "latitude": "35.90617000",
-         "longitude": "68.48869000"
-     },
-     {
-         "id": 101,
-         "name": "Nahrīn",
-         "latitude": "36.06490000",
-         "longitude": "69.13343000"
-     },
-     {
-         "id": 105,
-         "name": "Pul-e Khumrī",
-         "latitude": "35.94458000",
-         "longitude": "68.71512000"
-     }
+   "Herat": [
+    {
+        "id": 60,
+        "name": "Chahār Burj",
+        "latitude": "34.24475000",
+        "longitude": "62.19165000"
+    },
+    {
+        "id": 73,
+        "name": "Ghōriyān",
+        "latitude": "34.34480000",
+        "longitude": "61.49321000"
+    },
+    {
+        "id": 74,
+        "name": "Herāt",
+        "latitude": "34.34817000",
+        "longitude": "62.19967000"
+    },
+    {
+        "id": 80,
+        "name": "Kafir Qala",
+        "latitude": "34.66667000",
+        "longitude": "61.06667000"
+    },
+    {
+        "id": 82,
+        "name": "Karukh",
+        "latitude": "34.48108000",
+        "longitude": "62.58630000"
+    },
+    {
+        "id": 88,
+        "name": "Kuhsān",
+        "latitude": "34.65389000",
+        "longitude": "61.19778000"
+    },
+    {
+        "id": 90,
+        "name": "Kushk",
+        "latitude": "33.29565000",
+        "longitude": "61.95221000"
+    },
+    {
+        "id": 111,
+        "name": "Qarah Bāgh",
+        "latitude": "34.94023000",
+        "longitude": "61.77589000"
+    },
+    {
+        "id": 123,
+        "name": "Shīnḏanḏ",
+        "latitude": "33.30294000",
+        "longitude": "62.14740000"
+    },
+    {
+        "id": 129,
+        "name": "Tīr Pul",
+        "latitude": "34.59431000",
+        "longitude": "61.26895000"
+    },
+    {
+        "id": 135,
+        "name": "Zindah Jān",
+        "latitude": "34.34264000",
+        "longitude": "61.74675000"
+    }
+    
    ],
-   "Balkh": [
+   "Jowzjan": [
+    {
+        "id": 136,
+        "name": "Āqchah",
+        "latitude": "36.90500000",
+        "longitude": "66.18341000"
+    },
+    {
+        "id": 63,
+        "name": "Darzāb",
+        "latitude": "35.97744000",
+        "longitude": "65.37828000"
+    },
+    {
+        "id": 113,
+        "name": "Qarqīn",
+        "latitude": "37.41853000",
+        "longitude": "66.04358000"
+    },
+    {
+        "id": 122,
+        "name": "Shibirghān",
+        "latitude": "36.66757000",
+        "longitude": "65.75290000"
+    }
+    ],
+    "Kabul": [
+        {
+            "id": 79,
+            "name": "Kabul",
+            "latitude": "34.52813000",
+            "longitude": "69.17233000"
+        },
+        {
+            "id":99,
+            "name": "Mīr Bachah Kōṯ",
+            "latitude": "34.74999000",
+            "longitude": "69.11899000"
+        },
+        {
+            "id":103,
+            "name": "Paghmān",
+            "latitude": "34.58787000",
+            "longitude": "68.95091000"
+        }
+        ], 
+    "Kandahar": [
       {
-         "id": 55,
-         "name": "Balkh",
-         "latitude": "36.75635000",
-         "longitude": "66.89720000"
-     },
-     {
-         "id": 65,
-         "name": "Dowlatābād",
-         "latitude": "36.98821000",
-         "longitude": "66.82069000"
-     },
-     {
-         "id": 85,
-         "name": "Khulm",
-         "latitude": "36.69736000",
-         "longitude": "67.69826000"
-     },
-     {
-         "id": 91,
-         "name": "Lab-Sar",
-         "latitude": "36.02634000",
-         "longitude": "66.83799000"
-     },
-     {
-         "id": 97,
-         "name": "Mazār-e Sharīf",
-         "latitude": "36.70904000",
-         "longitude": "67.11087000"
-     },
-     {
-         "id": 112,
-         "name": "Qarchī Gak",
-         "latitude": "37.03999000",
-         "longitude": "66.78891000"
-     }
-   ],
-   "Bamyan":[
-      {
-         "id": 57,
-         "name": "Bāmyān",
-         "latitude": "34.82156000",
-         "longitude": "67.82734000"
-     },
-     {
-         "id": 104,
-         "name": "Panjāb",
-         "latitude": "34.38795000",
-         "longitude": "67.02327000"
-     }
-   ],
-   "Daykundi": [
-      {
-         "id": 102,
-         "name": "Nīlī",
-         "latitude": "33.76329000",
-         "longitude": "66.07617000"
-     }
-   ],
-   "Alabama":[
+         "id": 81,
+         "name": "Kandahār",
+         "latitude": "31.61332000",
+         "longitude": "65.71013000"
+      },
+    ],
+    "Kapisa": [
+        {
+           "id": 124,
+           "name": "Sidqābād",
+           "latitude": "35.02298000",
+           "longitude": "69.35112000"
+        },
+      ],
+    "Khost": [
+        {
+           "id":87,
+           "name": "Khōst",
+           "latitude": "33.33951000",
+           "longitude": "69.92041000",
+        },
+      ],
+   "Alabama": [
       {
          "id": 110968,
          "name": "Abbeville",
