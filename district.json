@@ -2849,7 +2849,7 @@
          "name": "Kandahār",
          "latitude": "31.61332000",
          "longitude": "65.71013000"
-      },
+      }
     ],
     "Kapisa": [
         {
@@ -2857,15 +2857,15 @@
            "name": "Sidqābād",
            "latitude": "35.02298000",
            "longitude": "69.35112000"
-        },
+        }
       ],
     "Khost": [
         {
            "id":87,
            "name": "Khōst",
            "latitude": "33.33951000",
-           "longitude": "69.92041000",
-        },
+           "longitude": "69.92041000"
+        }
       ],
    "Alabama": [
       {
