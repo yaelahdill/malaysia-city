@@ -651,6 +651,15 @@
       ]
    },
    {
+    "name":"UK-Tristan Da Cunha"
+   },
+   {
+    "name":"UK-Ascension"
+   },
+   {
+    "name":"UK-Anguilla"
+   },
+   {
       "name":"United Kingdom",
       "short_name":"gb",
       "iso3": "GBR",
@@ -981,6 +990,9 @@
        ]
    },
    {
+    "name":"Timor Leste"
+   },
+   {
       "name":"Thailand",
       "short_name":"th",
       "iso3": "THA",
@@ -1281,6 +1293,12 @@
            "tzName": "Indian Standard Time"
          }
        ]
+   },
+   {
+    "name":"Spanish Ter.Of N.Africa"
+   },
+   {
+    "name":"Spain-Balearic Islands"
    },
    {
       "name":"Spain",
@@ -2614,6 +2632,9 @@
            "tzName": "Norfolk Time"
          }
        ]
+   },
+   {
+    "name":"NL- Sint Eustaius & Saba"
    },
    {
       "name":"Niue",
@@ -4812,6 +4833,9 @@
        ]
    },
    {
+    "name":"Finland-Aland Islands"
+   },
+   {
       "name":"Finland",
       "short_name":"fi",
       "iso3": "FIN",
@@ -5166,6 +5190,12 @@
        ]
    },
    {
+    "name":"Denmark-Greenland"
+   },
+   {
+    "name":"Denmark-Faroe Islands"
+   },
+   {
       "name":"Denmark",
       "short_name":"dk",
       "iso3": "DNK",
@@ -5318,7 +5348,7 @@
        ]
    },
    {
-      "name":"Crotia",
+      "name":"Croatia",
       "short_name":"hr",
       "iso3": "HRV",
       "iso2": "HR",
@@ -5524,6 +5554,9 @@
            "tzName": "Christmas Island Time"
          }
        ]
+   },
+   {
+    "name":"China-Macao"
    },
    {
       "name":"China",

@@ -2861,12 +2861,3419 @@
       ],
     "Khost": [
         {
+           "id":51,
+           "name": "Asadabad",
+           "latitude": "34.87311000",
+           "longitude": "71.14697000"
+        }
+      ],
+      "Kunar": [
+        {
            "id":87,
            "name": "Khōst",
            "latitude": "33.33951000",
            "longitude": "69.92041000"
+        },
+        {
+           "id":138,
+           "name": "Āsmār",
+           "latitude": "35.03333000",
+           "longitude": "71.35809000"
         }
       ],
+      "Kunduz Province": [
+        {
+           "id":64,
+           "name": "Dasht-e Archī",
+           "latitude": "37.13333000",
+           "longitude": "69.16667000"
+        },
+        {
+            "id":75,
+            "name": "Imām Şāḩib",
+            "latitude": "37.18897000",
+            "longitude": "68.93644000"
+         },
+         {
+            "id":83,
+            "name": "Khanabad",
+            "latitude": "36.68250000",
+            "longitude": "69.11556000"
+         },
+         {
+            "id":89,
+            "name": "Kunduz",
+            "latitude": "36.72895000",
+            "longitude": "68.85700000"
+         },
+         {
+            "id":114,
+            "name": "Qarāwul",
+            "latitude": "37.21959000",
+            "longitude": "68.78020000"
+         }
+      ],
+      "Laghman": [
+        {
+           "id":98,
+           "name": "Mehtar Lām",
+           "latitude": "34.67139000",
+           "longitude": "70.20944000"
+        }
+      ],
+      "Logar": [
+        {
+           "id":56,
+           "name": "Baraki Barak",
+           "latitude": "33.96744000",
+           "longitude": "68.94920000"
+        },
+        {
+            "id":139,
+            "name": "Ḩukūmatī Azrah",
+            "latitude": "34.17355000",
+            "longitude": "69.64573000"
+         },
+         {
+            "id":106,
+            "name": "Pul-e ‘Alam",
+            "latitude": "33.99529000",
+            "longitude": "69.02274000"
+         }
+      ],
+      "Nangarhar": [
+        {
+           "id":58,
+           "name": "Bāsawul",
+           "latitude": "34.24749000",
+           "longitude": "70.87218000"
+        },
+        {
+            "id":77,
+            "name": "Jalālābād",
+            "latitude": "34.42647000",
+            "longitude": "70.45153000"
+         },
+         {
+            "id":94,
+            "name": "Markaz-e Woluswalī-ye Āchīn",
+            "latitude": "34.12583000",
+            "longitude": "70.70778000"
+         }
+    ],
+    "Nimruz": [
+        {
+           "id":86,
+           "name": "Khāsh",
+           "latitude": "31.52919000",
+            "longitude": "62.79055000"
+           
+        },
+        {
+            "id":100,
+            "name": "Mīrābād",
+            "latitude": "30.43624000",
+            "longitude": "61.83830000"
+            
+         },
+         {
+            "id":116,
+            "name": "Rūdbār",
+            "latitude": "30.15000000",
+            "longitude": "62.60000000"
+            
+         },
+         {
+            "id":132,
+            "name": "Zaranj",
+            "latitude": "30.95962000",
+            "longitude": "61.86037000"
+            
+         }
+    ],
+    "Nuristan": [
+        {
+           "id":107,
+           "name": "Pārūn",
+           "latitude": "35.42064000",
+           "longitude": "70.92261000"
+           
+        }
+    ],
+    "Paktia": [
+        {
+           "id": 69,
+           "name": "Gardez",
+           "latitude": "33.59744000",
+           "longitude": "69.22592000"
+           
+        }
+    ],
+    "Paktika": [
+        {
+           "id":120,
+           "name": "Saṟōbī",
+           "latitude": "32.75221000",
+           "longitude": "69.04587000"
+           
+        },
+        {
+            "id":134,
+            "name": "Zaṟah Sharan",
+            "latitude": "33.14641000",
+            "longitude": "68.79213000"
+            
+         },
+         {
+            "id":133,
+            "name": "Zarghūn Shahr",
+            "latitude": "32.84734000",
+            "longitude": "68.44573000"
+            
+         }
+    ],
+    "Panjshir": [
+        {
+           "id":59,
+           "name": "Bāzārak",
+           "latitude": "35.31292000",
+           "longitude": "69.51519000"
+           
+        }
+    ],
+    "Parwan": [
+        {
+           "id":61,
+           "name": "Charikar",
+           "latitude": "35.01361000",
+           "longitude": "69.17139000"
+           
+        },
+        {
+            "id":76,
+            "name": "Jabal os Saraj",
+            "latitude": "35.11833000",
+            "longitude": "69.23778000"
+            
+         }
+    ],
+    "Samangan": [
+        {
+           "id":53,
+           "name": "Aībak",
+           "latitude": "36.26468000",
+           "longitude": "68.01551000"
+           
+        }
+    ],
+    "Sar-e Pol": [
+        {
+           "id":62,
+           "name": "Chīras",
+           "latitude": "35.41674000",
+           "longitude": "65.98234000"
+           
+        },
+        {
+            "id": 92,
+            "name": "Larkird",
+            "latitude": "35.48936000",
+            "longitude": "66.66409000"
+            
+         },
+         {
+            "id":110,
+            "name": "Qal‘ah-ye Shahr",
+            "latitude": "35.54729000",
+            "longitude": "65.56760000"
+            
+         },
+         {
+            "id":117,
+            "name": "Sang-e Chārak",
+            "latitude": "35.84972000",
+            "longitude": "66.43694000"
+            
+         },
+         {
+            "id":119,
+            "name": "Sar-e Pul",
+            "latitude": "36.21544000",
+            "longitude": "65.93249000"
+            
+         },
+         {
+            "id":125,
+            "name": "Tagāw-Bāy",
+            "latitude": "35.69941000",
+            "longitude": "66.06164000"
+            
+         },
+         {
+            "id":128,
+            "name": "Tukzār",
+            "latitude": "35.94831000",
+            "longitude": "66.42132000"
+            
+         }
+    ],
+    "Takhar": [
+        {
+           "id":137,
+           "name": "Ārt Khwājah",
+           "latitude": "37.08571000",
+           "longitude": "69.47958000"  
+        },
+        {
+            "id":126,
+            "name": "Taloqan",
+            "latitude": "36.73605000",
+            "longitude": "69.53451000"
+            
+        }
+    ],
+    "Urozgan": [
+        {
+           "id":127,
+           "name": "Tarinkot",
+           "latitude": "32.62998000",
+           "longitude": "65.87806000"
+           
+        },
+        {
+            "id":130,
+            "name": "Uruzgān",
+            "latitude": "32.92775000",
+            "longitude": "66.63253000"
+            
+        }
+    ],
+    "Zabul": [
+        {
+           "id":109,
+           "name": "Qalāt",
+           "latitude": "32.10575000",
+           "longitude": "66.90833000"
+           
+        }
+        
+    ],
+    " Berat District": [
+        {
+           "id":153,
+           "name": "Banaj",
+           "latitude": "40.82492000",
+           "longitude": "19.84074000"
+           
+        },
+        {
+            "id":154,
+            "name": "Bashkia Berat",
+            "latitude": "40.69997000",
+            "longitude": "19.94983000"
+            
+         },
+         {
+            "id":170,
+            "name": "Bashkia Kuçovë",
+            "latitude": "40.82489000",
+            "longitude": "19.95350000"
+            
+         },
+         {
+            "id":180,
+            "name": "Bashkia Poliçan",
+            "latitude": "40.58608000",
+            "longitude": "20.04535000"
+            
+         },
+         {
+            "id":186,
+            "name": "Bashkia Skrapar",
+            "latitude": "40.56036000",
+            "longitude": "20.25477000"
+            
+         },
+         {
+            "id":191,
+            "name": "Berat",
+            "latitude": "40.70583000",
+            "longitude": "19.95222000"
+            
+         },
+         {
+            "id":280,
+            "name": "Çorovodë",
+            "latitude": "40.50417000",
+            "longitude": "20.22722000"
+            
+         },
+         {
+            "id":219,
+            "name": "Kuçovë",
+            "latitude": "40.80028000",
+            "longitude": "19.91667000"
+            
+         },
+         {
+            "id":238,
+            "name": "Poliçan",
+            "latitude": "40.61222000",
+            "longitude": "20.09806000"
+            
+         },
+         {
+            "id":242,
+            "name": "Rrethi i Beratit",
+            "latitude": "40.66667000",
+            "longitude": "20.00000000"
+            
+         },
+         {
+            "id":253,
+            "name": "Rrethi i Kuçovës",
+            "latitude": "40.83333000",
+            "longitude": "19.91667000"
+            
+         },
+         {
+            "id":258,
+            "name": "Rrethi i Skraparit",
+            "latitude": "40.55000000",
+            "longitude": "20.26667000"
+            
+         },
+         {
+            "id":273,
+            "name": "Ura Vajgurore",
+            "latitude": "40.76889000",
+            "longitude": "19.87778000"
+            
+         }
+
+    ],
+    "Dibër County": [
+        {
+           "id":155,
+           "name": "Bashkia Bulqizë",
+           "latitude": "41.47152000",
+           "longitude": "20.33192000"
+           
+        },
+        {
+            "id":165,
+            "name": "Bashkia Klos",
+            "latitude": "41.50826000",
+            "longitude": "20.07107000"
+            
+         },
+         {
+            "id":176,
+            "name": "Bashkia Mat",
+            "latitude": "41.63317000",
+            "longitude": "20.01228000"
+            
+         },
+         {
+            "id":193,
+            "name": "Bulqizë",
+            "latitude": "41.49167000",
+            "longitude": "20.22194000"
+            
+         },
+         {
+            "id": 194,
+            "name": "Burrel",
+            "latitude": "41.61028000",
+            "longitude": "20.00889000"
+            
+         },
+         {
+            "id":209,
+            "name": "Klos",
+            "latitude": "41.50694000",
+            "longitude": "20.08667000"
+            
+         },
+         {
+            "id":236,
+            "name": "Peshkopi",
+            "latitude": "41.68500000",
+            "longitude": "20.42889000"
+            
+         },
+         {
+            "id":243,
+            "name": "Rrethi i Bulqizës",
+            "latitude": "41.50000000",
+            "longitude": "20.33333000"
+            
+         },
+         {
+            "id":246,
+            "name": "Rrethi i Dibrës",
+            "latitude": "41.75000000",
+            "longitude": "20.33333000"
+            
+         },
+         {
+            "id":256,
+            "name": "Rrethi i Matit",
+            "latitude": "41.58333000",
+            "longitude": "20.08333000"
+            
+         },
+         {
+            "id":272,
+            "name": "Ulëz",
+            "latitude": "41.68278000",
+            "longitude": "19.89333000"
+            
+         }
+    ],  
+    "Durrës District": [
+    {
+        "id": 159,
+        "name": "Bashkia Durrës",
+        "latitude": "41.42743000",
+        "longitude": "19.48690000"
+        
+     },
+     {
+        "id":168,
+        "name": "Bashkia Krujë",
+        "latitude": "41.50091000",
+        "longitude": "19.72571000"
+        
+     },
+     {
+        "id":185,
+        "name": "Bashkia Shijak",
+        "latitude": "41.33558000",
+        "longitude": "19.58977000"
+        
+     },
+     {
+        "id":197,
+        "name": "Durrës",
+        "latitude": "41.32355000",
+        "longitude": "19.45469000"
+        
+     },
+     {
+        "id":198,
+        "name": "Durrës District",
+        "latitude": "41.31660000",
+        "longitude": "19.45000000"
+        
+     },
+     {
+        "id":203,
+        "name": "Fushë-Krujë",
+        "latitude": "41.47833000",
+        "longitude": "19.71778000"
+        
+     },
+     {
+        "id":214,
+        "name": "Krujë",
+        "latitude": "41.50917000",
+        "longitude": "19.79278000"
+        
+     },
+     {
+        "id":250,
+        "name": "Rrethi i Krujës",
+        "latitude": "41.55000000",
+        "longitude": "19.75000000"
+        
+     },
+     {
+        "id":265,
+        "name": "Shijak",
+        "latitude": "41.34556000",
+        "longitude": "19.56722000"
+        
+     },
+     {
+        "id":269,
+        "name": "Sukth",
+        "latitude": "41.38056000",
+        "longitude": "19.53778000"
+        
+     }
+    ],
+    "Fier County": [
+        {
+            "id":152,
+            "name": "Ballsh",
+            "latitude": "40.59889000",
+            "longitude": "19.73472000"
+            
+         },
+         {
+            "id":157,
+            "name": "Bashkia Divjakë",
+            "latitude": "40.95716000",
+            "longitude": "19.52364000"
+            
+         },
+         {
+            "id":160,
+            "name": "Bashkia Fier",
+            "latitude": "40.72937000",
+            "longitude": "19.48690000"
+            
+         },
+         {
+            "id": 174,
+            "name": "Bashkia Mallakastër",
+            "latitude": "40.55669000",
+            "longitude": "19.77347000"
+            
+         },
+         {
+            "id":179,
+            "name": "Bashkia Patos",
+            "latitude": "40.67793000",
+            "longitude": "19.65591000"
+            
+         },
+         {
+            "id":196,
+            "name": "Divjakë",
+            "latitude": "40.99667000",
+            "longitude": "19.52944000"
+            
+         },
+         {
+            "id":200,
+            "name": "Fier",
+            "latitude": "40.72389000",
+            "longitude": "19.55611000"
+            
+         },
+         {
+            "id":201,
+            "name": "Fier-Çifçi",
+            "latitude": "40.71667000",
+            "longitude": "19.56667000"
+            
+         },
+         {
+            "id":227,
+            "name": "Lushnjë",
+            "latitude": "40.94194000",
+            "longitude": "19.70500000"
+            
+         },
+         {
+            "id":234,
+            "name": "Patos",
+            "latitude": "40.68333000",
+            "longitude": "19.61944000"
+            
+         },
+         {
+            "id":235,
+            "name": "Patos Fshat",
+            "latitude": "40.64278000",
+            "longitude": "19.65083000"
+            
+         },
+         {
+            "id":241,
+            "name": "Roskovec",
+            "latitude": "40.73750000",
+            "longitude": "19.70222000"
+            
+         },
+         {
+            "id":254,
+            "name": "Rrethi i Mallakastrës",
+            "latitude": "40.55000000",
+            "longitude": "19.78333000"
+            
+         }
+    ],
+
+    "Gjirokastër District ": [
+        {
+            "id":158,
+            "name": "Bashkia Dropull",
+            "latitude": "39.98584000",
+            "longitude": "20.30529000"
+            
+        },
+        {
+            "id":164,
+            "name": "Bashkia Kelcyrë",
+            "latitude": "40.36196000",
+            "longitude": "20.16476000"
+            
+        },
+        {
+            "id":172,
+            "name": "Bashkia Libohovë",
+            "latitude": "40.10754000",
+            "longitude": "20.25753000"
+            
+        },
+        {
+            "id":177,
+            "name": "Bashkia Memaliaj",
+            "latitude": "40.41524000",
+            "longitude": "19.96911000"
+            
+        },
+        {
+            "id":183,
+            "name": "Bashkia Përmet",
+            "latitude": "40.23246000",
+            "longitude": "20.41091000"
+            
+        },
+        {
+            "id":187,
+            "name": "Bashkia Tepelenë",
+            "latitude": "40.26736000",
+            "longitude": "19.97003000"
+            
+        },
+        {
+            "id":204,
+            "name": "Gjinkar",
+            "latitude": "40.19944000",
+            "longitude": "20.40611000"
+            
+        },
+        {
+            "id":205,
+            "name": "Gjirokastër",
+            "latitude": "40.07583000",
+            "longitude": "20.13889000"
+            
+        },
+        {
+            "id":220,
+            "name": "Këlcyrë",
+            "latitude": "40.31306000",
+            "longitude": "20.18944000"
+            
+        },
+        {
+            "id":221,
+            "name": "Lazarat",
+            "latitude": "40.04667000",
+            "longitude": "20.14750000"
+            
+        },
+        {
+            "id": 225,
+            "name": "Libohovë",
+            "latitude": "40.03111000",
+            "longitude": "20.26306000"
+            
+        },
+        {
+            "id":231,
+            "name": "Memaliaj",
+            "latitude": "40.35167000",
+            "longitude": "19.98028000"
+            
+        },
+        {
+            "id":240,
+            "name": "Përmet",
+            "latitude": "40.23361000",
+            "longitude": "20.35167000"
+            
+        },
+        {
+            "id":270,
+            "name": "Tepelenë",
+            "latitude": "40.29583000",
+            "longitude": "20.01917000"
+            
+        }
+    ],
+    "Korçë County": [
+        {
+            "id":156,
+            "name": "Bashkia Devoll",
+            "latitude": "40.60078000",
+            "longitude": "20.93814000"
+            
+        },
+        {
+            "id":166,
+            "name": "Bashkia Kolonjë",
+            "latitude": "40.31420000",
+            "longitude": "20.61482000"
+            
+        },
+        {
+            "id":173,
+            "name": "Bashkia Maliq",
+            "latitude": "40.75508000",
+            "longitude": "20.60748000"
+            
+        },
+        {
+            "id":182,
+            "name": "Bashkia Pustec",
+            "latitude": "40.83591000",
+            "longitude": "20.89405000"
+            
+        },
+        {
+            "id":192,
+            "name": "Bilisht",
+            "latitude": "40.62750000",
+            "longitude": "20.99000000"
+            
+        },
+        {
+            "id":199,
+            "name": "Ersekë",
+            "latitude": "40.33778000",
+            "longitude": "20.67889000"
+            
+        },
+        {
+            "id":212,
+            "name": "Korçë",
+            "latitude": "40.61861000",
+            "longitude": "20.78083000"
+            
+        },
+        {
+            "id":223,
+            "name": "Leskovik",
+            "latitude": "40.15139000",
+            "longitude": "20.59722000"
+            
+        },
+        {
+            "id": 226,
+            "name": "Libonik",
+            "latitude": "40.70444000",
+            "longitude": "20.70861000"
+            
+        },
+        {
+            "id":228,
+            "name": "Maliq",
+            "latitude": "40.70583000",
+            "longitude": "20.69972000"
+            
+        },
+        {
+            "id":230,
+            "name": "Mborje",
+            "latitude": "40.60333000",
+            "longitude": "20.80306000"
+            
+        },
+        {
+            "id":237,
+            "name": "Pogradec",
+            "latitude": "40.90250000",
+            "longitude": "20.65250000"
+            
+        },
+        {
+            "id":245,
+            "name": "Rrethi i Devollit",
+            "latitude": "40.58333000",
+            "longitude": "20.91667000"
+            
+        },
+        {
+            "id":249,
+            "name": "Rrethi i Kolonjës",
+            "latitude": "40.25000000",
+            "longitude": "20.66667000"
+            
+        },
+        {
+            "id": 275,
+            "name": "Velçan",
+            "latitude": "40.95472000",
+            "longitude": "20.46222000"
+            
+        },
+        {
+            "id":278,
+            "name": "Voskopojë",
+            "latitude": "40.63306000",
+            "longitude": "20.58889000"
+            
+        }
+    ],
+    "Kukës District": [
+        {
+            "id":151,
+            "name": "Bajram Curri",
+            "latitude": "42.35734000",
+            "longitude": "20.07679000"
+            
+        },
+        {
+            "id":215,
+            "name": "Krumë",
+            "latitude": "42.19694000",
+            "longitude": "20.41333000"
+            
+        },
+        {
+            "id":217,
+            "name": "Kukës",
+            "latitude": "42.07694000",
+            "longitude": "20.42194000"
+            
+        },
+        {
+            "id":247,
+            "name": "Rrethi i Hasit",
+            "latitude": "42.16667000",
+            "longitude": "20.33333000"
+            
+        },
+        {
+            "id":251,
+            "name": "Rrethi i Kukësit",
+            "latitude": "42.00000000",
+            "longitude": "20.33333000"
+            
+        }
+    ],
+    "Lezhë County": [
+        {
+            "id":169,
+            "name": "Bashkia Kurbin",
+            "latitude": "41.62215000",
+            "longitude": ""
+            
+        },
+        {
+            "id":171,
+            "name": "Bashkia Lezhë",
+            "latitude": "41.81320000",
+            "longitude": "19.64121000"
+            
+        },
+        {
+            "id":178,
+            "name": "Bashkia Mirditë",
+            "latitude": "41.80953000",
+            "longitude": "19.99024000"
+            
+        },
+        {
+            "id":218,
+            "name": "Kurbnesh",
+            "latitude": "41.77972000",
+            "longitude": "20.08361000"
+            
+        },
+        {
+            "id":222,
+            "name": "Laç",
+            "latitude": "41.63556000",
+            "longitude": "19.71306000"
+            
+        },
+        {
+            "id":224,
+            "name": "Lezhë",
+            "latitude": "41.78361000",
+            "longitude": "19.64361000"
+            
+        },
+        {
+            "id":229,
+            "name": "Mamurras",
+            "latitude": "41.57750000",
+            "longitude": "19.69222000"
+            
+        },
+        {
+            "id":232,
+            "name": "Milot",
+            "latitude": "41.68389000",
+            "longitude": "19.71556000"
+            
+        },
+        {
+            "id":261,
+            "name": "Rrëshen",
+            "latitude": "41.76750000",
+            "longitude": "19.87556000"
+            
+        },
+        {
+            "id":252,
+            "name": "Rrethi i Kurbinit",
+            "latitude": "41.63333000",
+            "longitude": "19.71667000"
+            
+        },
+        {
+            "id":262,
+            "name": "Rubik",
+            "latitude": "41.77444000",
+            "longitude": "19.78611000"
+            
+        },
+        {
+            "id":267,
+            "name": "Shëngjin",
+            "latitude": "41.81361000",
+            "longitude": "19.59389000"
+            
+        }
+    ],
+    "Shkodër District": [
+        {
+            "id":175,
+            "name": "Bashkia Malësi e Madhe",
+            "latitude": "42.36798000",
+            "longitude": "19.58977000"
+            
+        },
+        {
+            "id": 181,
+            "name": "Bashkia Pukë",
+            "latitude": "42.02997000",
+            "longitude": "19.92778000"
+            
+        },
+        {
+            "id":188,
+            "name": "Bashkia Vau i Dejës",
+            "latitude": "42.04834000",
+            "longitude": "19.69999000"
+            
+        },
+        {
+            "id":202,
+            "name": "Fushë-Arrëz",
+            "latitude": "42.06222000",
+            "longitude": "20.01667000"
+            
+        },
+        {
+            "id":211,
+            "name": "Koplik",
+            "latitude": "42.21361000",
+            "longitude": "19.43639000"
+            
+        },
+        {
+            "id":239,
+            "name": "Pukë",
+            "latitude": "42.04444000",
+            "longitude": "19.89972000"
+            
+        },
+        {
+            "id":255,
+            "name": "Rrethi i Malësia e Madhe",
+            "latitude": "42.33333000",
+            "longitude": "19.58333000"
+            
+        },
+        {
+            "id":257,
+            "name": "Rrethi i Shkodrës",
+            "latitude": "42.06917000",
+            "longitude": "19.53506000"
+            
+        },
+        {
+            "id":266,
+            "name": "Shkodër",
+            "latitude": "42.06828000",
+            "longitude": "19.51258000"
+            
+        },
+        {
+            "id":274,
+            "name": "Vau i Dejës",
+            "latitude": "42.01000000",
+            "longitude": "19.62472000"
+            
+        },
+        {
+            "id":279,
+            "name": "Vukatanë",
+            "latitude": "42.02806000",
+            "longitude": "19.54778000"
+            
+        }
+
+    ],
+    "Tirana District": [
+        {
+            "id":163,
+            "name": "Bashkia Kavajë",
+            "latitude": "41.18127000",
+            "longitude": "19.55579000"
+            
+        },
+        {
+            "id":190,
+            "name": "Bashkia Vorë",
+            "latitude": "41.39804000",
+            "longitude": "19.67703000"
+            
+        },
+        {
+            "id":207,
+            "name": "Kamëz",
+            "latitude": "41.38167000",
+            "longitude": "19.76028000"
+            
+        },
+        {
+            "id":208,
+            "name": "Kavajë",
+            "latitude": "41.18556000",
+            "longitude": "19.55694000"
+            
+        },
+        {
+            "id":213,
+            "name": "Krrabë",
+            "latitude": "41.21556000",
+            "longitude": "19.97139000"
+            
+        },
+        {
+            "id":248,
+            "name": "Rrethi i Kavajës",
+            "latitude": "41.16667000",
+            "longitude": "19.58333000"
+            
+        },
+
+        {
+            "id": 259,
+            "name": "Rrethi i Tiranës",
+            "latitude": "41.33333000",
+            "longitude": "19.91667000"
+            
+        },
+        {
+            "id":260,
+            "name": "Rrogozhinë",
+            "latitude": "41.07639000",
+            "longitude": "19.66528000"
+            
+        },
+        {
+            "id":268,
+            "name": "Sinaballaj",
+            "latitude": "41.06889000",
+            "longitude": "19.69944000"
+            
+        },
+        {
+            "id":271,
+            "name": "Tirana",
+            "latitude": "41.32750000",
+            "longitude": "19.81889000"
+            
+        },
+        {
+            "id":277,
+            "name": "Vorë",
+            "latitude": "41.39083000",
+            "longitude": "19.65500000"
+            
+        }
+    ],
+    "Vlorë County": [
+        {
+            "id":161,
+            "name": "Bashkia Finiq",
+            "latitude": "39.84393000",
+            "longitude": "20.16659000"
+            
+        },
+        {
+            "id":162,
+            "name": "Bashkia Himarë",
+            "latitude": "40.11581000",
+            "longitude": "19.81389000"
+            
+        },
+        {
+            "id":167,
+            "name": "Bashkia Konispol",
+            "latitude": "39.70064000",
+            "longitude": "20.13353000"
+            
+        },
+        {
+            "id":184,
+            "name": "Bashkia Selenicë",
+            "latitude": "40.39503000",
+            "longitude": "19.65958000"
+            
+        },
+        {
+            "id":189,
+            "name": "Bashkia Vlorë",
+            "latitude": "40.41340000",
+            "longitude": "19.49792000"
+            
+        },
+        {
+            "id":195,
+            "name": "Delvinë",
+            "latitude": "39.95111000",
+            "longitude": "20.09778000"
+            
+        },
+        {
+            "id":206,
+            "name": "Himarë",
+            "latitude": "40.10167000",
+            "longitude": "19.74472000"
+            
+        },
+        {
+            "id":210,
+            "name": "Konispol",
+            "latitude": "39.65889000",
+            "longitude": "20.18139000"
+            
+        },
+        {
+            "id":216,
+            "name": "Ksamil",
+            "latitude": "39.76889000",
+            "longitude": "19.99972000"
+            
+        },
+        {
+            "id":233,
+            "name": "Orikum",
+            "latitude": "40.32528000",
+            "longitude": "19.47139000"
+            
+        },
+        {
+            "id":244,
+            "name": "Rrethi i Delvinës",
+            "latitude": "39.91667000",
+            "longitude": "20.08333000"
+            
+        },
+        {
+            "id":263,
+            "name": "Sarandë",
+            "latitude": "39.87534000",
+            "longitude": "20.00477000"
+            
+        },
+        {
+            "id":264,
+            "name": "Selenicë",
+            "latitude": "40.53056000",
+            "longitude": "19.63583000"
+            
+        },
+        {
+            "id":276,
+            "name": "Vlorë",
+            "latitude": "40.46860000",
+            "longitude": "19.48318000"
+            
+        }
+    ],
+    "Adrar ": [
+        {
+            "id":31227,
+            "name": "Adrar",
+            "latitude": "27.87429000",
+            "longitude": "-0.29388000"
+            
+        },
+        {
+            "id":31234,
+            "name": "Aoulef",
+            "latitude": "26.96667000",
+            "longitude": "1.08333000"
+            
+        },
+        {
+            "id":31406,
+            "name": "Reggane",
+            "latitude": "26.71576000",
+            "longitude": "0.17140000"
+            
+        },
+        {
+            "id":31450,
+            "name": "Timimoun",
+            "latitude": "29.26388000",
+            "longitude": "0.23098000"
+            
+        }
+    ],
+    "Aïn Defla": [
+        {
+            "id":31243,
+            "name": "Aïn Defla",
+            "latitude": "36.26405000",
+            "longitude": "1.96790000"
+            
+        },
+        {
+            "id":31325,
+            "name": "El Abadia",
+            "latitude": "36.26951000",
+            "longitude": "1.68609000"
+            
+        },
+        {
+            "id":31331,
+            "name": "El Attaf",
+            "latitude": "36.22393000",
+            "longitude": "1.67187000"
+            
+        },
+        {
+            "id":31361,
+            "name": "Khemis Miliana",
+            "latitude": "36.26104000",
+            "longitude": "2.22015000"
+            
+        },
+        {
+            "id":31448,
+            "name": "Theniet el Had",
+            "latitude": "35.87111000",
+            "longitude": "2.02806000"
+            
+        }
+    ],
+    "Aïn Témouchent": [
+        {
+            "id":31250,
+            "name": "Aïn Temouchent",
+            "latitude": "35.29749000",
+            "longitude": "-1.14037000"
+            
+        },
+        {
+            "id":31265,
+            "name": "Beni Saf",
+            "latitude": "35.30099000",
+            "longitude": "-1.38226000"
+            
+        },
+        {
+            "id":31329,
+            "name": "El Amria",
+            "latitude": "35.52439000",
+            "longitude": "-1.01577000"
+            
+        },
+        {
+            "id":31340,
+            "name": "El Malah",
+            "latitude": "35.39137000",
+            "longitude": "-1.09238000"
+            
+        },
+        {
+            "id":31351,
+            "name": "Hammam Bou Hadjar",
+            "latitude": "35.37889000",
+            "longitude": "-0.96778000"
+            
+        }
+    ],
+    "Algiers ": [
+        {
+            "id":31249,
+            "name": "Aïn Taya",
+            "latitude": "36.79333000",
+            "longitude": "3.28694000"
+            
+        },
+        {
+            "id":31230,
+            "name": "Algiers",
+            "latitude": "36.73225000",
+            "longitude": "3.08746000"
+            
+        },
+        {
+            "id":31254,
+            "name": "Bab Ezzouar",
+            "latitude": "36.72615000",
+            "longitude": "3.18291000"
+            
+        },
+        {
+            "id":31274,
+            "name": "Birkhadem",
+            "latitude": "36.71499000",
+            "longitude": "3.05002000"
+            
+        },
+        {
+            "id":31281,
+            "name": "Bordj el Kiffan",
+            "latitude": "36.74871000",
+            "longitude": "3.19249000"
+            
+        },
+        {
+            "id":31312,
+            "name": "Dar el Beïda",
+            "latitude": "36.71333000",
+            "longitude": "3.21250000"
+            
+        },
+        {
+            "id":31413,
+            "name": "Rouiba",
+            "latitude": "36.73829000",
+            "longitude": "3.28079000"
+            
+        }
+    ],
+    "Annaba": [
+        {
+            "id":31233,
+            "name": "Annaba",
+            "latitude": "36.90000000",
+            "longitude": "7.76667000"
+            
+        },
+        {
+            "id":31267,
+            "name": "Berrahal",
+            "latitude": "36.83528000",
+            "longitude": "7.45333000"
+            
+        },
+        {
+            "id":31323,
+            "name": "Drean",
+            "latitude": "36.68482000",
+            "longitude": "7.75111000"
+            
+        },
+        {
+            "id": 31334,
+            "name": "El Hadjar",
+            "latitude": "36.80377000",
+            "longitude": "7.73684000"
+            
+        }
+    ],
+    "Batna": [
+        {
+            "id":31251,
+            "name": "Aïn Touta",
+            "latitude": "35.37675000",
+            "longitude": "5.90001000"
+            
+        },
+        {
+            "id":31237,
+            "name": "Arris",
+            "latitude": "35.25881000",
+            "longitude": "6.34706000"
+            
+        },
+        {
+            "id":31257,
+            "name": "Barika",
+            "latitude": "35.38901000",
+            "longitude": "5.36584000"
+            
+        },
+        {
+            "id":31258,
+            "name": "Batna",
+            "latitude": "35.55597000",
+            "longitude": "6.17414000"
+            
+        },
+        {
+            "id":31292,
+            "name": "Boumagueur",
+            "latitude": "35.50520000",
+            "longitude": "5.55250000"
+            
+        },
+        {
+            "id":31382,
+            "name": "Merouana",
+            "latitude": "35.63106000",
+            "longitude": "5.91186000"
+            
+        },
+        {
+            "id":31415,
+            "name": "Râs el Aïoun",
+            "latitude": "35.67384000",
+            "longitude": "5.64530000"
+            
+        },
+        {
+            "id":31444,
+            "name": "Tazoult-Lambese",
+            "latitude": "35.48171000",
+            "longitude": "6.26074000"
+            
+        }
+    ],
+    "Béchar": [
+        {
+            "id":31298,
+            "name": "Béchar",
+            "latitude": "31.61667000",
+            "longitude": "-2.21667000"
+            
+        }
+    ],
+    "Béjaïa": [
+        {
+            "id":31229,
+            "name": "Akbou",
+            "latitude": "36.45750000",
+            "longitude": "4.53494000"
+            
+        },
+        {
+            "id":31231,
+            "name": "Amizour",
+            "latitude": "36.64022000",
+            "longitude": "4.90131000"
+            
+        },
+        {
+            "id":31256,
+            "name": "Barbacha",
+            "latitude": "36.56667000",
+            "longitude": "4.96667000"
+            
+        },
+        {
+            "id":31259,
+            "name": "Bejaïa",
+            "latitude": "36.75587000",
+            "longitude": "5.08433000"
+            
+        },
+        {
+            "id":31467,
+            "name": "el hed",
+            "latitude": "36.65000000",
+            "longitude": "4.77361000"
+            
+        },
+        {
+            "id":31339,
+            "name": "El Kseur",
+            "latitude": "36.67942000",
+            "longitude": "4.85550000"
+            
+        },
+        {
+            "id":31344,
+            "name": "Feraoun",
+            "latitude": "36.56041000",
+            "longitude": "4.85454000"
+            
+        },
+        {
+            "id":31421,
+            "name": "Seddouk",
+            "latitude": "36.54722000",
+            "longitude": "4.68611000"
+            
+        }
+    ],
+    "Biskra": [
+        {
+            "id":31275,
+            "name": "Biskra",
+            "latitude": "34.85038000",
+            "longitude": "5.72805000"
+            
+        },
+        {
+            "id":31405,
+            "name": "Oumache",
+            "latitude": "34.69292000",
+            "longitude": "5.68092000"
+            
+        },
+        {
+            "id":31427,
+            "name": "Sidi Khaled",
+            "latitude": "34.38700000",
+            "longitude": "4.98785000"
+            
+        },
+        {
+            "id":31430,
+            "name": "Sidi Okba",
+            "latitude": "34.74512000",
+            "longitude": "5.89833000"
+            
+        },
+        {
+            "id":31461,
+            "name": "Tolga",
+            "latitude": "34.72224000",
+            "longitude": "5.37845000"
+            
+        },
+        {
+            "id":31466,
+            "name": "Zeribet el Oued",
+            "latitude": "34.68284000",
+            "longitude": "6.51109000"
+            
+        }
+    ],
+    "Blida": [
+        {
+            "id":31263,
+            "name": "Beni Mered",
+            "latitude": "36.52389000",
+            "longitude": "2.86131000"
+            
+        },
+        {
+            "id":31276,
+            "name": "Blida",
+            "latitude": "36.47004000",
+            "longitude": "2.82770000"
+            
+        },
+        {
+            "id":31296,
+            "name": "Boû Arfa",
+            "latitude": "36.46298000",
+            "longitude": "2.81464000"
+            
+        },
+        {
+            "id":31287,
+            "name": "Boufarik",
+            "latitude": "36.57413000",
+            "longitude": "2.91214000"
+            
+        },
+        {
+            "id":31289,
+            "name": "Bougara",
+            "latitude": "36.54178000",
+            "longitude": "3.08100000"
+            
+        },
+        {
+            "id":31290,
+            "name": "Bouinan",
+            "latitude": "36.53167000",
+            "longitude": "2.99194000"
+            
+        },
+        {
+            "id":31301,
+            "name": "Chebli",
+            "latitude": "36.57722000",
+            "longitude": "3.00917000"
+            
+        },
+        {
+            "id":31307,
+            "name": "Chiffa",
+            "latitude": "36.46293000",
+            "longitude": "2.73873000"
+            
+        },
+        {
+            "id":31369,
+            "name": "Larbaâ",
+            "latitude": "36.56471000",
+            "longitude": "3.15434000"
+            
+        },
+        {
+            "id":31377,
+            "name": "Meftah",
+            "latitude": "36.62040000",
+            "longitude": "3.22248000"
+            
+        },
+        {
+            "id":31428,
+            "name": "Sidi Moussa",
+            "latitude": "36.60637000",
+            "longitude": "3.08783000"
+            
+        },
+        {
+            "id":31438,
+            "name": "Souma",
+            "latitude": "36.51833000",
+            "longitude": "2.90528000"
+            
+        }
+    ],
+    "Bordj Bou Arréridj ": [
+        {
+            "id":31278,
+            "name": "Bordj Bou Arreridj",
+            "latitude": "36.07321000",
+            "longitude": "4.76108000"
+            
+        },
+        {
+            "id":31279,
+            "name": "Bordj Ghdir",
+            "latitude": "35.90111000",
+            "longitude": "4.89806000"
+            
+        },
+        {
+            "id":31280,
+            "name": "Bordj Zemoura",
+            "latitude": "36.27462000",
+            "longitude": "4.85668000"
+            
+        },
+        {
+            "id":31327,
+            "name": "El Achir",
+            "latitude": "36.06386000",
+            "longitude": "4.62744000"
+            
+        },
+        {
+            "id":31373,
+            "name": "Mansourah",
+            "latitude": "36.08725000",
+            "longitude": "4.45192000"
+            
+        },
+        {
+            "id":31381,
+            "name": "Melouza",
+            "latitude": "35.97999000",
+            "longitude": "4.18665000"
+            
+        },
+        {
+            "id":31416,
+            "name": "Râs el Oued",
+            "latitude": "35.94410000",
+            "longitude": "5.03107000"
+            
+        }
+    ],
+    "Bouïra": [
+        {
+            "id":31241,
+            "name": "Aïn Bessem",
+            "latitude": "36.29333000",
+            "longitude": "3.67319000"
+            
+        },
+        {
+            "id":31295,
+            "name": "Bouïra",
+            "latitude": "36.37489000",
+            "longitude": "3.90200000"
+            
+        },
+        {
+            "id":31309,
+            "name": "Chorfa",
+            "latitude": "36.36505000",
+            "longitude": "4.32636000"
+            
+        },
+        {
+            "id":31322,
+            "name": "Draa el Mizan",
+            "latitude": "36.53628000",
+            "longitude": "3.83340000"
+            
+        },
+        {
+            "id":31368,
+            "name": "Lakhdaria",
+            "latitude": "36.56463000",
+            "longitude": "3.59330000"
+            
+        },
+        {
+            "id":31439,
+            "name": "Sour el Ghozlane",
+            "latitude": "36.14766000",
+            "longitude": "3.69123000"
+            
+        }
+    ],
+    "Boumerdès": [
+        {
+            "id":31235,
+            "name": "Arbatache",
+            "latitude": "36.63773000",
+            "longitude": "3.37127000"
+            
+        },
+        {
+            "id":31261,
+            "name": "Beni Amrane",
+            "latitude": "36.66774000",
+            "longitude": "3.59115000"
+            
+        },
+        {
+            "id":31286,
+            "name": "Boudouaou",
+            "latitude": "36.72735000",
+            "longitude": "3.40995000"
+            
+        },
+        {
+            "id":31294,
+            "name": "Boumerdas",
+            "latitude": "36.76639000",
+            "longitude": "3.47717000"
+            
+        },
+        {
+            "id":31299,
+            "name": "Chabet el Ameur",
+            "latitude": "36.63709000",
+            "longitude": "3.69474000"
+            
+        },
+        {
+            "id":31314,
+            "name": "Dellys",
+            "latitude": "36.91716000",
+            "longitude": "3.91311000"
+            
+        },
+        {
+            "id":31362,
+            "name": "Khemis el Khechna",
+            "latitude": "36.64997000",
+            "longitude": "3.33080000"
+            
+        },
+        {
+            "id":31372,
+            "name": "Makouda",
+            "latitude": "36.78567000",
+            "longitude": "4.06273000"
+            
+        },
+        {
+            "id":31393,
+            "name": "Naciria",
+            "latitude": "36.74625000",
+            "longitude": "3.83163000"
+            
+        },
+        {
+            "id":31403,
+            "name": "Ouled Moussa",
+            "latitude": "36.68394000",
+            "longitude": "3.36661000"
+            
+        },
+        {
+            "id":31407,
+            "name": "Reghaïa",
+            "latitude": "36.73587000",
+            "longitude": "3.34018000"
+            
+        },
+        {
+            "id":31441,
+            "name": "Tadmaït",
+            "latitude": "36.74413000",
+            "longitude": "3.90045000"
+            
+        },
+        {
+            "id":31447,
+            "name": "Thenia",
+            "latitude": "36.72544000",
+            "longitude": "3.55665000"
+            
+        },
+        {
+            "id":31456,
+            "name": "Tizi Gheniff",
+            "latitude": "36.58839000",
+            "longitude": "3.77445000"
+            
+        }
+    ],
+    "Chlef": [
+        {
+            "id":31226,
+            "name": "Abou el Hassan",
+            "latitude": "36.41657000",
+            "longitude": "1.19616000"
+            
+        },
+        {
+            "id":31291,
+            "name": "Boukadir",
+            "latitude": "36.06629000",
+            "longitude": "1.12602000"
+            
+        },
+        {
+            "id":31308,
+            "name": "Chlef",
+            "latitude": "36.16525000",
+            "longitude": "1.33452000"
+            
+        },
+        {
+            "id":31324,
+            "name": "Ech Chettia",
+            "latitude": "36.19591000",
+            "longitude": "1.25537000"
+            
+        },
+        {
+            "id":31397,
+            "name": "Oued Fodda",
+            "latitude": "36.18503000",
+            "longitude": "1.53299000"
+            
+        },
+        {
+            "id":31399,
+            "name": "Oued Sly",
+            "latitude": "36.10124000",
+            "longitude": "1.19949000"
+            
+        },
+        {
+            "id":31424,
+            "name": "Sidi Akkacha",
+            "latitude": "36.46472000",
+            "longitude": "1.30258000"
+            
+        }
+    ],
+    "Constantine": [
+        {
+            "id":31469,
+            "name": "’Aïn Abid",
+            "latitude": "36.23194000",
+            "longitude": "6.94333000"
+            
+        },
+        {
+            "id":31248,
+            "name": "Aïn Smara",
+            "latitude": "36.26740000",
+            "longitude": "6.50135000"
+            
+        },
+        {
+            "id":31310,
+            "name": "Constantine",
+            "latitude": "36.36500000",
+            "longitude": "6.61472000"
+            
+        },
+        {
+            "id":31315,
+            "name": "Didouche Mourad",
+            "latitude": "36.45250000",
+            "longitude": "6.63639000"
+            
+        },
+        {
+            "id":31338,
+            "name": "El Khroub",
+            "latitude": "36.26333000",
+            "longitude": "6.69361000"
+            
+        },
+        {
+            "id":31350,
+            "name": "Hamma Bouziane",
+            "latitude": "36.41205000",
+            "longitude": "6.59603000"
+            
+        }
+    ],
+    "Djelfa": [
+        {
+            "id":31474,
+            "name": "’Aïn el Bell",
+            "latitude": "34.34381000",
+            "longitude": "3.22475000"
+            
+        },
+        {
+            "id":31246,
+            "name": "Aïn Oussera",
+            "latitude": "35.45139000",
+            "longitude": "2.90583000"
+            
+        },
+        {
+            "id":31273,
+            "name": "Birine",
+            "latitude": "35.63500000",
+            "longitude": "3.22500000"
+            
+        },
+        {
+            "id":31300,
+            "name": "Charef",
+            "latitude": "34.62098000",
+            "longitude": "2.79503000"
+            
+        },
+        {
+            "id":31311,
+            "name": "Dar Chioukh",
+            "latitude": "34.89638000",
+            "longitude": "3.48543000"
+            
+        },
+        {
+            "id":31318,
+            "name": "Djelfa",
+            "latitude": "34.67279000",
+            "longitude": "3.26300000"
+            
+        },
+        {
+            "id":31336,
+            "name": "El Idrissia",
+            "latitude": "34.44542000",
+            "longitude": "2.52749000"
+            
+        },
+        {
+            "id":31385,
+            "name": "Messaad",
+            "latitude": "34.15429000",
+            "longitude": "3.50309000"
+            
+        }
+    ],
+    "El Bayadh": [
+        {
+            "id":31297,
+            "name": "Brezina",
+            "latitude": "33.09892000",
+            "longitude": "1.26082000"
+            
+        },
+        {
+            "id":31326,
+            "name": "El Abiodh Sidi Cheikh",
+            "latitude": "32.89300000",
+            "longitude": "0.54839000"
+            
+        },
+        {
+            "id":31332,
+            "name": "El Bayadh",
+            "latitude": "33.68318000",
+            "longitude": "1.01927000"
+            
+        }
+    ],
+    "El Oued": [
+        {
+            "id":31313,
+            "name": "Debila",
+            "latitude": "33.51667000",
+            "longitude": "6.95000000"
+            
+        },
+        {
+            "id":31341,
+            "name": "El Oued",
+            "latitude": "33.35608000",
+            "longitude": "6.86319000"
+            
+        },
+        {
+            "id":31408,
+            "name": "Reguiba",
+            "latitude": "33.56391000",
+            "longitude": "6.70326000"
+            
+        },
+        {
+            "id":31411,
+            "name": "Robbah",
+            "latitude": "33.27967000",
+            "longitude": "6.90984000"
+            
+        }
+    ],
+    "El Tarf": [
+        {
+            "id":31260,
+            "name": "Ben Mehidi",
+            "latitude": "36.76967000",
+            "longitude": "7.90641000"
+            
+        },
+        {
+            "id":31270,
+            "name": "Besbes",
+            "latitude": "36.70222000",
+            "longitude": "7.84722000"
+            
+        },
+        {
+            "id":31337,
+            "name": "El Kala",
+            "latitude": "36.89556000",
+            "longitude": "8.44333000"
+            
+        },
+        {
+            "id":31342,
+            "name": "El Tarf",
+            "latitude": "36.76720000",
+            "longitude": "8.31377000"
+            
+        }
+    ],
+    "Ghardaïa": [
+        {
+            "id":31268,
+            "name": "Berriane",
+            "latitude": "32.82648000",
+            "longitude": "3.76689000"
+            
+        },
+        {
+            "id":31347,
+            "name": "Ghardaïa",
+            "latitude": "32.49094000",
+            "longitude": "3.67347000"
+            
+        },
+        {
+            "id":31386,
+            "name": "Metlili Chaamba",
+            "latitude": "32.26667000",
+            "longitude": "3.63333000"
+            
+        }
+    ],
+    "Guelma": [
+        {
+            "id":31293,
+            "name": "Boumahra Ahmed",
+            "latitude": "36.45833000",
+            "longitude": "7.51389000"
+            
+        },
+        {
+            "id":31348,
+            "name": "Guelma",
+            "latitude": "36.46214000",
+            "longitude": "7.42608000"
+            
+        },
+        {
+            "id":31355,
+            "name": "Héliopolis",
+            "latitude": "36.50361000",
+            "longitude": "7.44278000"
+            
+        }
+    ],
+    "Illizi": [
+        {
+            "id":31358,
+            "name": "Illizi",
+            "latitude": "26.48333000",
+            "longitude": "8.46667000"
+            
+        }
+    ],
+    "Jijel": [
+        {
+            "id":31359,
+            "name": "Jijel",
+            "latitude": "36.82055000",
+            "longitude": "5.76671000"
+            
+        }
+    ],
+    "Khenchela": [
+        {
+            "id":31363,
+            "name": "Khenchela",
+            "latitude": "35.43583000",
+            "longitude": "7.14333000"
+            
+        }
+    ], 
+    "Laghouat": [
+        {
+            "id":31228,
+            "name": "Aflou",
+            "latitude": "34.11279000",
+            "longitude": "2.10228000"
+            
+        },
+        {
+            "id":31367,
+            "name": "Laghouat",
+            "latitude": "33.80000000",
+            "longitude": "2.86514000"
+            
+        }
+    ],
+    "M’Sila": [
+        {
+            "id":31468,
+            "name": "‘Aïn el Hadjel",
+            "latitude": "35.67003000",
+            "longitude": "3.88153000"
+            
+        },
+        {
+            "id":31477,
+            "name": "’Aïn el Melh",
+            "latitude": "34.84146000",
+            "longitude": "4.16383000"
+            
+        },
+        {
+            "id":31391,
+            "name": "M’Sila",
+            "latitude": "35.70583000",
+            "longitude": "4.54194000"
+            
+        },
+        {
+            "id":31426,
+            "name": "Sidi Aïssa",
+            "latitude": "35.88548000",
+            "longitude": "3.77236000"
+            
+        }
+    ],
+    "Mascara": [
+        {
+            "id":31282,
+            "name": "Bou Hanifia el Hamamat",
+            "latitude": "35.31473000",
+            "longitude": "-0.05037000"
+            
+        },
+        {
+            "id":31375,
+            "name": "Mascara",
+            "latitude": "35.39664000",
+            "longitude": "0.14027000"
+            
+        },
+        {
+            "id":31400,
+            "name": "Oued el Abtal",
+            "latitude": "35.45595000",
+            "longitude": "0.68778000"
+            
+        },
+        {
+            "id":31433,
+            "name": "Sig",
+            "latitude": "35.52832000",
+            "longitude": "-0.19369000"
+            
+        }
+    ],
+    "Médéa": [
+        {
+            "id":31471,
+            "name": "’Aïn Boucif",
+            "latitude": "35.89123000",
+            "longitude": "3.15850000"
+            
+        },
+        {
+            "id":31269,
+            "name": "Berrouaghia",
+            "latitude": "36.13516000",
+            "longitude": "2.91085000"
+            
+        },
+        {
+            "id":31366,
+            "name": "Ksar el Boukhari",
+            "latitude": "35.88889000",
+            "longitude": "2.74905000"
+            
+        },
+        {
+            "id":31390,
+            "name": "Médéa",
+            "latitude": "36.26417000",
+            "longitude": "2.75393000"
+            
+        }
+    ],
+    "Mila": [
+        {
+            "id":31302,
+            "name": "Chelghoum el Aïd",
+            "latitude": "36.16286000",
+            "longitude": "6.16651000"
+            
+        },
+        {
+            "id":31387,
+            "name": "Mila",
+            "latitude": "36.45028000",
+            "longitude": "6.26444000"
+            
+        },
+        {
+            "id":31412,
+            "name": "Rouached",
+            "latitude": "36.45774000",
+            "longitude": "6.04267000"
+            
+        },
+        {
+            "id":31429,
+            "name": "Sidi Mérouane",
+            "latitude": "36.52056000",
+            "longitude": "6.26111000"
+            
+        },
+        {
+            "id":31446,
+            "name": "Telerghma",
+            "latitude": "36.11653000",
+            "longitude": "6.35434000"
+            
+        }
+    ],
+    "Mostaganem": [
+        {
+            "id":31388,
+            "name": "Mostaganem",
+            "latitude": "35.93115000",
+            "longitude": "0.08918000"
+            
+        }
+    ],
+    "Naama": [
+        {
+            "id":31247,
+            "name": "Aïn Sefra",
+            "latitude": "32.75000000",
+            "longitude": "-0.58333000"
+            
+        },
+        {
+            "id":31392,
+            "name": "Naama",
+            "latitude": "33.26667000",
+            "longitude": "-0.31667000"
+            
+        }
+    ],
+    "Oran": [
+        {
+            "id":31478,
+            "name": "’Aïn el Turk",
+            "latitude": "35.74381000",
+            "longitude": "-0.76930000"
+            
+        },
+        {
+            "id":31252,
+            "name": "Aïn el Bya",
+            "latitude": "35.80389000",
+            "longitude": "-0.30178000"
+            
+        },
+        {
+            "id":31272,
+            "name": "Bir el Djir",
+            "latitude": "35.72000000",
+            "longitude": "-0.54500000"
+            
+        },
+        {
+            "id":31284,
+            "name": "Bou Tlelis",
+            "latitude": "35.57272000",
+            "longitude": "-0.89960000"
+            
+        },
+        {
+            "id":31343,
+            "name": "Es Senia",
+            "latitude": "35.64779000",
+            "longitude": "-0.62397000"
+            
+        },
+        {
+            "id":31383,
+            "name": "Mers el Kebir",
+            "latitude": "35.72790000",
+            "longitude": "-0.70810000"
+            
+        },
+        {
+            "id":31395,
+            "name": "Oran",
+            "latitude": "35.69906000",
+            "longitude": "-0.63588000"
+            
+        },
+        {
+            "id":31432,
+            "name": "Sidi ech Chahmi",
+            "latitude": "35.65903000",
+            "longitude": "-0.52168000"
+            
+        }
+    ],
+    "Ouargla": [
+        {
+            "id":31316,
+            "name": "Djamaa",
+            "latitude": "33.53388000",
+            "longitude": "5.99306000"
+            
+        },
+        {
+            "id":31335,
+            "name": "El Hadjira",
+            "latitude": "32.61336000",
+            "longitude": "5.51259000"
+            
+        },
+        {
+            "id":31353,
+            "name": "Hassi Messaoud",
+            "latitude": "31.68041000",
+            "longitude": "6.07286000"
+            
+        },
+        {
+            "id":31378,
+            "name": "Megarine",
+            "latitude": "33.19195000",
+            "longitude": "6.08695000"
+            
+        },
+        {
+            "id":31396,
+            "name": "Ouargla",
+            "latitude": "31.94932000",
+            "longitude": "5.32502000"
+            
+        },
+        {
+            "id":31414,
+            "name": "Rouissat",
+            "latitude": "31.92427000",
+            "longitude": "5.35018000"
+            
+        },
+        {
+            "id":31425,
+            "name": "Sidi Amrane",
+            "latitude": "33.49885000",
+            "longitude": "6.00803000"
+            
+        },
+        {
+            "id":31445,
+            "name": "Tebesbest",
+            "latitude": "33.11667000",
+            "longitude": "6.08333000"
+            
+        },
+        {
+            "id":31462,
+            "name": "Touggourt",
+            "latitude": "33.10527000",
+            "longitude": "6.05796000"
+            
+        }
+    ],
+    "Oum el Bouaghi": [
+        {
+            "id":31242,
+            "name": "Aïn Beïda",
+            "latitude": "35.79639000",
+            "longitude": "7.39278000"
+            
+        },
+        {
+            "id":31244,
+            "name": "Aïn Fakroun",
+            "latitude": "35.97108000",
+            "longitude": "6.87374000"
+            
+        },
+        {
+            "id":31245,
+            "name": "Aïn Kercha",
+            "latitude": "35.92472000",
+            "longitude": "6.69528000"
+            
+        },
+        {
+            "id":31330,
+            "name": "El Aouinet",
+            "latitude": "35.86691000",
+            "longitude": "7.88673000"
+            
+        },
+        {
+            "id":31384,
+            "name": "Meskiana",
+            "latitude": "35.63058000",
+            "longitude": "7.66606000"
+            
+        },
+        {
+            "id":31404,
+            "name": "Oum el Bouaghi",
+            "latitude": "35.87541000",
+            "longitude": "7.11353000"
+            
+        }
+    ],
+    "Relizane": [
+        {
+            "id":31473,
+            "name": "’Aïn Merane",
+            "latitude": "36.16277000",
+            "longitude": "0.97037000"
+            
+        },
+        {
+            "id":31232,
+            "name": "Ammi Moussa",
+            "latitude": "35.86781000",
+            "longitude": "1.11143000"
+            
+        },
+        {
+            "id": 31319,
+            "name": "Djidiouia",
+            "latitude": "35.92989000",
+            "longitude": "0.82871000"
+            
+        },
+        {
+            "id":31376,
+            "name": "Mazouna",
+            "latitude": "36.12232000",
+            "longitude": "0.89865000"
+            
+        },
+        {
+            "id":31398,
+            "name": "Oued Rhiou",
+            "latitude": "35.96124000",
+            "longitude": "0.91896000"
+            
+        },
+        {
+            "id": 31409,
+            "name": "Relizane",
+            "latitude": "35.73734000",
+            "longitude": "0.55599000"
+            
+        },
+        {
+            "id":31435,
+            "name": "Smala",
+            "latitude": "35.71652000",
+            "longitude": "0.75437000"
+            
+        },
+        {
+            "id":31464,
+            "name": "Zemoura",
+            "latitude": "35.72251000",
+            "longitude": "0.75509000"
+            
+        }
+    ],
+    "Saïda": [
+        {
+            "id":31475,
+            "name": "’Aïn el Hadjar",
+            "latitude": "34.75846000",
+            "longitude": "0.14528000"
+            
+        },
+        {
+            "id":31419,
+            "name": "Saïda",
+            "latitude": "34.83033000",
+            "longitude": "0.15171000"
+            
+        }
+    ],
+    "Sétif": [
+        {
+            "id":31240,
+            "name": "Aïn Arnat",
+            "latitude": "36.18683000",
+            "longitude": "5.31347000"
+            
+        },
+        {
+            "id":31253,
+            "name": "BABOR - VILLE",
+            "latitude": "36.48994000",
+            "longitude": "5.53930000"
+            
+        },
+        {
+            "id":31288,
+            "name": "Bougaa",
+            "latitude": "36.33293000",
+            "longitude": "5.08843000"
+            
+        },
+        {
+            "id":31333,
+            "name": "El Eulma",
+            "latitude": "36.15281000",
+            "longitude": "5.69016000"
+            
+        },
+        {
+            "id":31417,
+            "name": "Salah Bey",
+            "latitude": "35.85451000",
+            "longitude": "5.29053000"
+            
+        },
+        {
+            "id": 31440,
+            "name": "Sétif",
+            "latitude": "36.19112000",
+            "longitude": "5.41373000"
+            
+        }
+    ],
+
+    "Bulawayo Province": [
+        {
+           "id":131411,
+           "name": "Bulawayo",
+           "latitude": "-20.15000000",
+           "longitude": "28.58333000"
+           
+        }
+    ],
+    "Harare Province": [
+        {
+           "id":131425,
+           "name": "Chitungwiza",
+           "latitude": "-18.01274000",
+           "longitude": "31.07555000"
+           
+        },
+        {
+            "id":131431,
+            "name": "Epworth",
+            "latitude": "-17.89000000",
+            "longitude": "31.14750000"
+            
+         },
+         {
+            "id":131443,
+            "name": "Harare",
+            "latitude": "-17.82772000",
+            "longitude": "31.05337000"
+            
+         }
+    ],
+    "Manicaland": [
+        {
+           "id":131410,
+           "name": "Buhera District",
+           "latitude": "-19.45658000",
+           "longitude": "31.93156000"
+           
+        },
+        {
+            "id":131417,
+            "name": "Chimanimani",
+            "latitude": "-19.80000000",
+            "longitude": "32.86667000"
+            
+         },
+         {
+            "id":131418,
+            "name": "Chimanimani District",
+            "latitude": "-19.78295000",
+            "longitude": "32.73338000"
+            
+         },
+         {
+            "id":131420,
+            "name": "Chipinge",
+            "latitude": "-20.18833000",
+            "longitude": "32.62365000"
+            
+         },
+         {
+            "id":131421,
+            "name": "Chipinge District",
+            "latitude": "-20.54959000",
+            "longitude": "32.43110000"
+            
+         },
+         {
+            "id":131430,
+            "name": "Dorowa Mining Lease",
+            "latitude": "-19.06667000",
+            "longitude": "31.75000000"
+            
+         },
+         {
+            "id":131444,
+            "name": "Headlands",
+            "latitude": "-18.27733000",
+            "longitude": "32.05150000"
+            
+         },
+         {
+            "id":131464,
+            "name": "Makoni District",
+            "latitude": "-18.33550000",
+            "longitude": "32.14650000"
+            
+         },
+         {
+            "id":131480,
+            "name": "Mutare",
+            "latitude": "-18.97070000",
+            "longitude": "32.67086000"
+            
+         },
+         {
+            "id":131481,
+            "name": "Mutare District",
+            "latitude": "-19.25512000",
+            "longitude": "32.44327000"
+            
+         },
+         {
+            "id":131482,
+            "name": "Mutasa District",
+            "latitude": "-18.66283000",
+            "longitude": "32.74547000"
+            
+         },
+         {
+            "id":131489,
+            "name": "Nyanga",
+            "latitude": "-18.21667000",
+            "longitude": "32.75000000"
+            
+         },
+         {
+            "id":131490,
+            "name": "Nyanga District",
+            "latitude": "-17.92951000",
+            "longitude": "32.76561000"
+            
+         },
+         {
+            "id":131491,
+            "name": "Nyazura",
+            "latitude": "-18.70587000",
+            "longitude": "32.16796000"
+            
+         },
+         {
+            "id":131492,
+            "name": "Odzi",
+            "latitude": "-18.96167000",
+            "longitude": "32.40557000"
+            
+         },
+         {
+            "id":131493,
+            "name": "Penhalonga",
+            "latitude": "-18.89112000",
+            "longitude": "32.69781000"
+            
+         },
+         {
+            "id":131497,
+            "name": "Rusape",
+            "latitude": "-18.52785000",
+            "longitude": "32.12843000"
+         }
+
+    ],
+    "Mashonaland Central Province": [
+        {
+           "id":131405,
+           "name": "Bindura",
+           "latitude": "-17.30192000",
+           "longitude": "31.33056000"   
+        },
+        {
+            "id":131406,
+            "name": "Bindura District",
+            "latitude": "-17.21230000",
+            "longitude": "31.30300000"
+            
+         },
+         {
+            "id":131412,
+            "name": "Centenary",
+            "latitude": "-16.72289000",
+            "longitude": "31.11462000"
+            
+         },
+         {
+            "id":131413,
+            "name": "Centenary District",
+            "latitude": "-16.41667000",
+            "longitude": "31.16667000"
+            
+         },
+         {
+            "id":131428,
+            "name": "Concession",
+            "latitude": "-17.38333000",
+            "longitude": "30.95000000"
+            
+         },
+         {
+            "id":131434,
+            "name": "Glendale",
+            "latitude": "-17.35514000",
+            "longitude": "31.06718000"
+            
+         },
+         {
+            "id":131437,
+            "name": "Guruve District",
+            "latitude": "-16.37206000",
+            "longitude": "30.60607000"
+            
+         },
+         {
+            "id":131472,
+            "name": "Mazowe",
+            "latitude": "-17.50404000",
+            "longitude": "30.97388000"
+            
+         },
+         {
+            "id":131473,
+            "name": "Mazowe District",
+            "latitude": "-17.28080000",
+            "longitude": "30.93231000"
+            
+         },
+         {
+            "id":131476,
+            "name": "Mount Darwin",
+            "latitude": "-16.77251000",
+            "longitude": "31.58381000"
+            
+         },
+         {
+            "id":131485,
+            "name": "Mvurwi",
+            "latitude": "-17.03333000",
+            "longitude": "30.85000000"
+            
+         },
+         {
+            "id":131498,
+            "name": "Rushinga District",
+            "latitude": "-16.60792000",
+            "longitude": "32.31434000"
+            
+         },
+         {
+            "id":131500,
+            "name": "Shamva",
+            "latitude": "-17.31159000",
+            "longitude": "31.57561000"
+            
+         },
+         {
+            "id":131501,
+            "name": "Shamva District",
+            "latitude": "-17.12366000",
+            "longitude": "31.64146000"
+            
+         }
+    ],
+    "Mashonaland East Province": [
+        {
+           "id":131401,
+           "name": "Beatrice",
+           "latitude": "-18.25283000",
+           "longitude": "30.84730000"
+           
+        },
+        {
+            "id":131426,
+            "name": "Chivhu",
+            "latitude": "-19.02112000",
+            "longitude": "30.89218000"
+            
+         },
+         {
+            "id":131436,
+            "name": "Goromonzi District",
+            "latitude": "-17.80695000",
+            "longitude": "31.36372000"
+            
+         },
+         {
+            "id":131462,
+            "name": "Macheke",
+            "latitude": "-18.13901000",
+            "longitude": "31.84933000"
+            
+         },
+         {
+            "id":131466,
+            "name": "Marondera",
+            "latitude": "-18.18527000",
+            "longitude": "31.55193000"
+            
+         },
+         {
+            "id":131467,
+            "name": "Marondera District",
+            "latitude": "-18.29214000",
+            "longitude": "31.51252000"
+            
+         },
+         {
+            "id":131477,
+            "name": "Mudzi District",
+            "latitude": "-17.04711000",
+            "longitude": "32.65279000"
+            
+         },
+         {
+            "id":131478,
+            "name": "Murehwa",
+            "latitude": "-17.64322000",
+            "longitude": "31.78400000"
+            
+         },
+         {
+            "id":131479,
+            "name": "Murehwa District",
+            "latitude": "-17.80057000",
+            "longitude": "31.83083000"
+            
+         },
+         {
+            "id":131483,
+            "name": "Mutoko",
+            "latitude": "-17.39699000",
+            "longitude": "32.22677000"
+            
+         },
+         {
+            "id":131499,
+            "name": "Ruwa",
+            "latitude": "-17.88972000",
+            "longitude": "31.24472000"
+            
+         }
+    ],
+    "Mashonaland West Province": [
+        {
+           "id":131400,
+           "name": "Banket",
+           "latitude": "-17.38333000",
+           "longitude": "30.40000000"
+           
+        },
+        {
+            "id":131414,
+            "name": "Chakari",
+            "latitude": "-18.06294000",
+            "longitude": "29.89246000"
+            
+         },
+         {
+            "id":131415,
+            "name": "Chegutu",
+            "latitude": "-18.13021000",
+            "longitude": "30.14074000"
+            
+         },
+         {
+            "id":131416,
+            "name": "Chegutu District",
+            "latitude": "-18.13097000",
+            "longitude": "30.40046000"
+            
+         },
+         {
+            "id":131419,
+            "name": "Chinhoyi",
+            "latitude": "-17.36667000",
+            "longitude": "30.20000000"
+            
+         },
+         {
+            "id":131424,
+            "name": "Chirundu",
+            "latitude": "-16.03333000",
+            "longitude": "28.85000000"
+            
+         },
+         {
+            "id":131445,
+            "name": "Hurungwe District",
+            "latitude": "-16.41301000",
+            "longitude": "29.58580000"
+            
+         },
+         {
+            "id":131451,
+            "name": "Kadoma",
+            "latitude": "-18.33328000",
+            "longitude": "29.91534000"
+            
+         },
+         {
+            "id":131452,
+            "name": "Kadoma District",
+            "latitude": "-18.34049000",
+            "longitude": "29.82831000"
+            
+         },
+         {
+            "id":131454,
+            "name": "Kariba",
+            "latitude": "-16.51667000",
+            "longitude": "28.80000000"
+            
+         },
+         {
+            "id":131455,
+            "name": "Kariba District",
+            "latitude": "-16.91011000",
+            "longitude": "28.65983000"
+            
+         },
+         {
+            "id":131456,
+            "name": "Karoi",
+            "latitude": "-16.80993000",
+            "longitude": "29.69247000"
+            
+         },
+         {
+            "id":131463,
+            "name": "Makonde District",
+            "latitude": "-17.16667000",
+            "longitude": "30.08333000"
+            
+         },
+         {
+            "id":131475,
+            "name": "Mhangura",
+            "latitude": "-16.89387000",
+            "longitude": "30.16828000"
+            
+         },
+         {
+            "id":131488,
+            "name": "Norton",
+            "latitude": "-17.88333000",
+            "longitude": "30.70000000"
+            
+         },
+         {
+            "id":131495,
+            "name": "Raffingora",
+            "latitude": "-17.03333000",
+            "longitude": "30.43333000"
+            
+         }
+    ],
+    "Masvingo Province ": [
+        {
+           "id":131404,
+           "name": "Bikita District",
+           "latitude": "-20.13752000",
+           "longitude": "31.93156000"
+           
+        },
+        {
+            "id":131422,
+            "name": "Chiredzi",
+            "latitude": "-21.05000000",
+            "longitude": "31.66667000"
+            
+         },
+         {
+            "id":131423,
+            "name": "Chiredzi District",
+            "latitude": "-21.28585000",
+            "longitude": "31.77039000"
+            
+         },
+         {
+            "id":131427,
+            "name": "Chivi District",
+            "latitude": "-20.50000000",
+            "longitude": "30.58333000"
+            
+         },
+         {
+            "id":131438,
+            "name": "Gutu District",
+            "latitude": "-19.60884000",
+            "longitude": "31.25059000"
+            
+         },
+         {
+            "id":131468,
+            "name": "Mashava",
+            "latitude": "-20.03665000",
+            "longitude": "30.48225000"
+            
+         },
+         {
+            "id":131469,
+            "name": "Masvingo",
+            "latitude": "Masvingo",
+            "longitude": "30.82766000"
+            
+         },
+         {
+            "id":131470,
+            "name": "Masvingo District",
+            "latitude": "-20.31481000",
+            "longitude": "30.90008000"
+            
+         },
+         {
+            "id":131486,
+            "name": "Mwenezi District",
+            "latitude": "-21.35838000",
+            "longitude": "30.70668000"
+            
+         },
+         {
+            "id":131507,
+            "name": "Zvishavane",
+            "latitude": "-20.32674000",
+            "longitude": "30.06648000"
+            
+         }
+    ],
+    "Matabeleland North Province ": [
+        {
+           "id":131407,
+           "name": "Binga",
+           "latitude": "-17.62027000",
+           "longitude": "27.34139000"
+           
+        },
+        {
+            "id":131408,
+            "name": "Binga District",
+            "latitude": "-17.80460000",
+            "longitude": "27.70088000"
+            
+         },
+         {
+            "id":131409,
+            "name": "Bubi District",
+            "latitude": "-19.52508000",
+            "longitude": "28.67998000"
+            
+         },
+         {
+            "id":131429,
+            "name": "Dete",
+            "latitude": "-18.61667000",
+            "longitude": "26.86667000"
+            
+         },
+         {
+            "id":131446,
+            "name": "Hwange",
+            "latitude": "-18.36446000",
+            "longitude": "26.49877000"
+            
+         },
+         {
+            "id":131447,
+            "name": "Hwange District",
+            "latitude": "-18.75000000",
+            "longitude": "26.50000000"
+            
+         },
+         {
+            "id":131450,
+            "name": "Inyati",
+            "latitude": "-19.67563000",
+            "longitude": "28.84687000"
+            
+         },
+         {
+            "id":131453,
+            "name": "Kamativi Mine",
+            "latitude": "-18.31563000",
+            "longitude": "27.05729000"
+            
+         },
+         {
+            "id":131460,
+            "name": "Lupane",
+            "latitude": "-18.93149000",
+            "longitude": "27.80696000"
+            
+         },
+         {
+            "id":131461,
+            "name": "Lupane District",
+            "latitude": "-18.83608000",
+            "longitude": "27.99098000"
+            
+         },
+         {
+            "id":131487,
+            "name": "Nkayi District",
+            "latitude": "-18.92472000",
+            "longitude": "28.71221000"
+            
+         },
+         {
+            "id":131506,
+            "name": "Victoria Falls",
+            "latitude": "-17.93285000",
+            "longitude": "25.83066000"
+            
+         }
+    ],
+    "Matabeleland South Province ": [
+        {
+           "id":131402,
+           "name": "Beitbridge",
+           "latitude": "-22.21667000",
+           "longitude": "30.00000000"
+           
+        },
+        {
+            "id":131403,
+            "name": "Beitbridge District",
+            "latitude": "-21.89829000",
+            "longitude": "30.07409000"
+            
+         },
+         {
+            "id":131432,
+            "name": "Esigodini",
+            "latitude": "-20.28979000",
+            "longitude": "28.92261000"
+            
+         },
+         {
+            "id":131433,
+            "name": "Filabusi",
+            "latitude": "-20.53333000",
+            "longitude": "29.28502000"
+            
+         },
+         {
+            "id":131439,
+            "name": "Gwanda",
+            "latitude": "-20.93622000",
+            "longitude": "29.00698000"
+            
+         },
+         {
+            "id":131440,
+            "name": "Gwanda District",
+            "latitude": "-21.20929000",
+            "longitude": "29.17557000"
+            
+         },
+         {
+            "id":131448,
+            "name": "Insiza",
+            "latitude": "-19.78333000",
+            "longitude": "29.20000000"
+            
+         },
+         {
+            "id":131449,
+            "name": "Insiza District",
+            "latitude": "-20.26431000",
+            "longitude": "29.47392000"
+            
+         },
+         {
+            "id":131465,
+            "name": "Mangwe District",
+            "latitude": "-20.95545000",
+            "longitude": "27.98292000"
+            
+         },
+         {
+            "id":131471,
+            "name": "Matobo",
+            "latitude": "-20.95545000",
+            "longitude": "28.49463000"
+            
+         },
+         {
+            "id":131494,
+            "name": "Plumtree",
+            "latitude": "-20.48333000",
+            "longitude": "27.81667000"
+            
+         },
+         {
+            "id":131505,
+            "name": "Umzingwane District",
+            "latitude": "-20.34704000",
+            "longitude": "28.94994000"
+            
+         }
+    ],
+    "Midlands Province": [
+        {
+           "id":131435,
+           "name": "Gokwe",
+           "latitude": "-18.20476000",
+           "longitude": "28.93490000"
+           
+        },
+        {
+            "id":131441,
+            "name": "Gweru",
+            "latitude": "-19.45000000",
+            "longitude": "29.81667000"
+            
+         },
+         {
+            "id":131442,
+            "name": "Gweru District",
+            "latitude": "-19.45665000",
+            "longitude": "29.64495000"
+            
+         },
+         {
+            "id":131457,
+            "name": "Kwekwe",
+            "latitude": "-18.92809000",
+            "longitude": "29.81486000"
+            
+         },
+         {
+            "id":131458,
+            "name": "Kwekwe District",
+            "latitude": "-18.75000000",
+            "longitude": "29.50000000"
+            
+         },
+         {
+            "id":131459,
+            "name": "Lalapanzi",
+            "latitude": "-19.33225000",
+            "longitude": "30.17768000"
+            
+         },
+         {
+            "id":131474,
+            "name": "Mberengwa District",
+            "latitude": "-20.72579000",
+            "longitude": "30.00962000"
+            
+         },
+         {
+            "id":131484,
+            "name": "Mvuma",
+            "latitude": "-19.27924000",
+            "longitude": "30.52828000"
+            
+         },
+         {
+            "id": 131496,
+            "name": "Redcliff",
+            "latitude": "-19.03333000",
+            "longitude": "29.78333000"
+            
+         },
+         {
+            "id":131502,
+            "name": "Shangani",
+            "latitude": "19.78333000",
+            "longitude": "29.36667000"
+            
+         },
+         {
+            "id":131503,
+            "name": "Shurugwi",
+            "latitude": "-19.67016000",
+            "longitude": "30.00589000"
+            
+         },
+         {
+            "id":131504,
+            "name": "Shurugwi District",
+            "latitude": "-19.75000000",
+            "longitude": "30.16667000"
+            
+         },
+         {
+            "id":131508,
+            "name": "Zvishavane District",
+            "latitude": "-20.30345000",
+            "longitude": "30.07514000"
+            
+         }
+    ],
    "Alabama": [
       {
          "id": 110968,
